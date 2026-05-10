@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Madeira Events 2026-2027
 BEGIN:VEVENT
 UID:11993-20260905@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
 SUMMARY:Concertos das Vinhas ao Lagar
@@ -21,7 +21,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-das-vinhas-ao-laga
 END:VEVENT
 BEGIN:VEVENT
 UID:11993-20260912@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Concertos das Vinhas ao Lagar
@@ -36,7 +36,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-das-vinhas-ao-laga
 END:VEVENT
 BEGIN:VEVENT
 UID:9764-20260725@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260727
 SUMMARY:Clássicos na Magnólia
@@ -50,7 +50,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/classicos-na-magnolia/
 END:VEVENT
 BEGIN:VEVENT
 UID:11998-20260905@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Festa das Vindimas do Estreito
@@ -67,7 +67,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-do-estrei
 END:VEVENT
 BEGIN:VEVENT
 UID:11325-20260510@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
 SUMMARY:Madeira Flower Classic Auto Parade
@@ -84,7 +84,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-flower-classic-auto-
 END:VEVENT
 BEGIN:VEVENT
 UID:11330-20260521@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260525
 SUMMARY:Instalações florais
@@ -99,7 +99,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/instalacoes-florais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11883-20260605@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260608
 SUMMARY:Mercado Quinhentista
@@ -117,7 +117,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercado-quinhentista/
 END:VEVENT
 BEGIN:VEVENT
 UID:11893-20260606@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Espetáculos Piromusicais
@@ -136,7 +136,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11893-20260613@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Espetáculos Piromusicais
@@ -155,7 +155,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11893-20260620@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:Espetáculos Piromusicais
@@ -174,7 +174,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11893-20260627@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Espetáculos Piromusicais
@@ -193,7 +193,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11895-20260605@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260629
 SUMMARY:Sunsets de Verão
@@ -210,7 +210,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/sunsets-de-verao/
 END:VEVENT
 BEGIN:VEVENT
 UID:14846-20260523@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Concurso Vestir à Época
@@ -224,7 +224,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-vestir-a-epoca/
 END:VEVENT
 BEGIN:VEVENT
 UID:9757-20260605@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260629
 SUMMARY:Festival do Atlântico
@@ -237,7 +237,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-do-atlantico/
 END:VEVENT
 BEGIN:VEVENT
 UID:19563-20260516@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Concerto Stefan Dohr | OCM
@@ -257,7 +257,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concerto-stefan-dohr-ocm/
 END:VEVENT
 BEGIN:VEVENT
 UID:9790-20261006@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261012
 SUMMARY:Festival da Natureza
@@ -270,7 +270,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-da-natureza/
 END:VEVENT
 BEGIN:VEVENT
 UID:9801-20260612@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260614
 SUMMARY:Ultra Skyrunning Madeira
@@ -289,7 +289,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/ultra-skyrunning-madeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:12914-20270105@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Cantar dos Reis
@@ -308,7 +308,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/cantar-dos-reis/
 END:VEVENT
 BEGIN:VEVENT
 UID:9805-20261223@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Noite do Mercado
@@ -331,7 +331,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/noite-do-mercado/
 END:VEVENT
 BEGIN:VEVENT
 UID:19752-20261201@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270111
 SUMMARY:Mercadinho de Natal
@@ -348,7 +348,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercadinho-de-natal/
 END:VEVENT
 BEGIN:VEVENT
 UID:9821-20261231@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270102
 SUMMARY:Espetáculo de Fim de Ano
@@ -364,7 +364,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculo-de-fim-de-ano/
 END:VEVENT
 BEGIN:VEVENT
 UID:19760-20261201@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270111
 SUMMARY:Aldeia Etnográfica
@@ -378,7 +378,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-etnografica/
 END:VEVENT
 BEGIN:VEVENT
 UID:9784-20260917@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260921
 SUMMARY:Festival Colombo
@@ -391,7 +391,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-colombo/
 END:VEVENT
 BEGIN:VEVENT
 UID:11999-20261215@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261224
 SUMMARY:Missas do Parto
@@ -410,7 +410,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/missas-do-parto/
 END:VEVENT
 BEGIN:VEVENT
 UID:9817-20260518@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:TransMadeira
@@ -428,7 +428,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:9817-20260523@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:TransMadeira
@@ -446,7 +446,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:9817-20260928@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:TransMadeira
@@ -464,7 +464,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:9817-20261003@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:TransMadeira
@@ -482,7 +482,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:11933-20260613@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260615
 SUMMARY:Feira das Sopas do Campo
@@ -499,7 +499,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/feira-das-sopas-do-campo/
 END:VEVENT
 BEGIN:VEVENT
 UID:9795-20261201@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270111
 SUMMARY:Natal e Passagem de Ano
@@ -512,7 +512,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festas-de-natal-e-fim-de-ano
 END:VEVENT
 BEGIN:VEVENT
 UID:11990-20260821@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Festa das Vindimas do Porto Santo
@@ -526,7 +526,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-do-porto-
 END:VEVENT
 BEGIN:VEVENT
 UID:19898-20260622@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260629
 SUMMARY:CMAS Taça do Mundo de Fotografia e Vídeo Subaquáticos
@@ -543,7 +543,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/cmas-taca-do-mundo-de-fotogr
 END:VEVENT
 BEGIN:VEVENT
 UID:9776-20260823@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260914
 SUMMARY:Festa do Vinho
@@ -556,7 +556,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-vinho/
 END:VEVENT
 BEGIN:VEVENT
 UID:11977-20260823@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260828
 SUMMARY:Semana Europeia de Folclore
@@ -571,7 +571,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/
 END:VEVENT
 BEGIN:VEVENT
 UID:11947-20260722@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260727
 SUMMARY:Semana do Mar
@@ -587,7 +587,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-do-mar/
 END:VEVENT
 BEGIN:VEVENT
 UID:15543-20261009@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
 SUMMARY:Feira do Mar e do Pescador
@@ -605,7 +605,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/feira-do-mar-e-do-pescador/
 END:VEVENT
 BEGIN:VEVENT
 UID:12758-20261031@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Festa da Castanha
@@ -622,7 +622,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-castanha/
 END:VEVENT
 BEGIN:VEVENT
 UID:12441-20261212@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:Mostra de Iguarias Tradicionais de Natal
@@ -636,7 +636,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-de-iguarias-tradicion
 END:VEVENT
 BEGIN:VEVENT
 UID:11941-20260718@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260720
 SUMMARY:Mostra Regional da Banana
@@ -651,7 +651,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-regional-da-banana/
 END:VEVENT
 BEGIN:VEVENT
 UID:11943-20260717@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260720
 SUMMARY:Festa da Lapa
@@ -666,7 +666,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-lapa/
 END:VEVENT
 BEGIN:VEVENT
 UID:15507-20261002@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
 SUMMARY:Festa da Maçã
@@ -681,7 +681,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-maca/
 END:VEVENT
 BEGIN:VEVENT
 UID:11985-20260905@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
 SUMMARY:Festa da Uva e do Agricultor
@@ -695,7 +695,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-uva-e-do-agricultor
 END:VEVENT
 BEGIN:VEVENT
 UID:15206-20260807@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260814
 SUMMARY:Art ´Camacha
@@ -711,7 +711,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/art-camacha/
 END:VEVENT
 BEGIN:VEVENT
 UID:11939-20260704@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260706
 SUMMARY:Festival 24 Horas a Bailar
@@ -725,7 +725,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-24-horas-a-bailar/
 END:VEVENT
 BEGIN:VEVENT
 UID:15485-20260919@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 SUMMARY:Festa do Pêro
@@ -739,7 +739,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-pero/
 END:VEVENT
 BEGIN:VEVENT
 UID:12881-20261204@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Aldeia de Natal
@@ -754,7 +754,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-de-natal/
 END:VEVENT
 BEGIN:VEVENT
 UID:12881-20261206@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Aldeia de Natal
@@ -769,7 +769,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-de-natal/
 END:VEVENT
 BEGIN:VEVENT
 UID:11979-20260827@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260914
 SUMMARY:Madeira Wine Lounge
@@ -783,7 +783,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/
 END:VEVENT
 BEGIN:VEVENT
 UID:15653-20270123@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270125
 SUMMARY:Mostra da Poncha e do Mel da Serra de Água
@@ -798,22 +798,8 @@ DESCRIPTION:A décima primeira edição da Mostra da Poncha e do Mel é org
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-da-poncha-e-do-mel-da-serra-de-agua/
 END:VEVENT
 BEGIN:VEVENT
-UID:11323-20260509@visitmadeira.com
-DTSTAMP:20260509T061224Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Atuação dos Grupos da Flor
-LOCATION:Funchal
-DESCRIPTION:Os grupos participantes do cortejo alegórico da Festa da Flor 
- atuarão no Heliporto exibindo os seus trajes e coreografias.\\nMais info:
-  https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-fl
- or/\\nSite oficial: https://eventsmadeira.com/evento/atuacoes-grupos-da-fl
- or/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-flor/
-END:VEVENT
-BEGIN:VEVENT
 UID:11323-20260530@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:Atuação dos Grupos da Flor
@@ -827,7 +813,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:9838-20270205@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Carnaval Solidário
@@ -843,7 +829,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval-solidario/
 END:VEVENT
 BEGIN:VEVENT
 UID:13153-20270205@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Carnaval das Crianças
@@ -859,7 +845,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval-das-criancas/
 END:VEVENT
 BEGIN:VEVENT
 UID:9840-20270206@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Cortejo Alegórico Carnaval
@@ -874,7 +860,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-alegorico-carnaval/
 END:VEVENT
 BEGIN:VEVENT
 UID:9843-20270209@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:Cortejo Trapalhão
@@ -888,7 +874,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-trapalhao/
 END:VEVENT
 BEGIN:VEVENT
 UID:11319-20260517@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
 SUMMARY:Grande Cortejo Alegórico
@@ -903,7 +889,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/grande-cortejo-alegorico-fes
 END:VEVENT
 BEGIN:VEVENT
 UID:9831-20270128@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Festa dos Compadres
@@ -918,7 +904,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
 END:VEVENT
 BEGIN:VEVENT
 UID:9831-20270130@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:Festa dos Compadres
@@ -933,7 +919,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
 END:VEVENT
 BEGIN:VEVENT
 UID:9831-20270204@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:Festa dos Compadres
@@ -948,7 +934,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
 END:VEVENT
 BEGIN:VEVENT
 UID:16699-20260430@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260601
 SUMMARY:71.ª Exposição da Flor
@@ -963,7 +949,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/71ª-exposição-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:20049-20260530@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:Concerto com Giuseppe Stillitano e Chiara Nobile | OCM
@@ -978,7 +964,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concerto-com-giuseppe-stilli
 END:VEVENT
 BEGIN:VEVENT
 UID:9729-20270213@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Carnaval
@@ -994,7 +980,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval/
 END:VEVENT
 BEGIN:VEVENT
 UID:16705-20260430@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260601
 SUMMARY:Mercadinho das Flores e dos Produtos Regionais
@@ -1010,7 +996,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercadinho-das-flores-e-dos-
 END:VEVENT
 BEGIN:VEVENT
 UID:20060-20260606@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Concerto Orquetra Madeira Camerata | Mikhail Shimorin | OCM
@@ -1025,7 +1011,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concerto-orquetra-madeira-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:11995-20261022@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
 SUMMARY:Rally Madeira Legend
@@ -1042,7 +1028,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/rally-madeira-legend/
 END:VEVENT
 BEGIN:VEVENT
 UID:11322-20261108@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261116
 SUMMARY:Mountain Bike Madeira Meeting
@@ -1058,7 +1044,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mountain-bike-madeira-meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:11321-20261018@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261024
 SUMMARY:Madeira Canyoning Meeting
@@ -1073,7 +1059,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-canyoning-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:13145-20260516@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260518
 SUMMARY:Porto Santo Nature Trail
@@ -1089,7 +1075,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/porto-santo-nature-trail/
 END:VEVENT
 BEGIN:VEVENT
 UID:11937-20261010@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:100 Milhas- Historic Rally
@@ -1103,7 +1089,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/100-milhas-historic-rally/
 END:VEVENT
 BEGIN:VEVENT
 UID:14669-20260523@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260525
 SUMMARY:Madeira Island Ultra Swim – Porto Santo 2026
@@ -1119,7 +1105,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-island-ultra-swim-po
 END:VEVENT
 BEGIN:VEVENT
 UID:14719-20260524@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
 SUMMARY:Rampa dos Barreiros
@@ -1135,7 +1121,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/rampa-dos-barreiros/
 END:VEVENT
 BEGIN:VEVENT
 UID:11945-20260712@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:Harvey Foster Classic New Road
@@ -1150,7 +1136,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/harvey-foster-classic-new-ro
 END:VEVENT
 BEGIN:VEVENT
 UID:11987-20260626@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
 SUMMARY:Volta à Madeira Classic Rally
@@ -1165,7 +1151,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/volta-a-madeira-classic-rall
 END:VEVENT
 BEGIN:VEVENT
 UID:17055-20260710@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260720
 SUMMARY:Festival Gastronómico da Madeira – SAL
@@ -1180,7 +1166,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-gastronomico-da-mad
 END:VEVENT
 BEGIN:VEVENT
 UID:16709-20260529@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 SUMMARY:Concerto da Banda Militar da Madeira – “Canções de Outrora”
@@ -1197,7 +1183,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concerto-da-banda-militar-da
 END:VEVENT
 BEGIN:VEVENT
 UID:11317-20260522@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260525
 SUMMARY:Madeira Classic Car Revival
@@ -1212,7 +1198,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-classic-car-revival/
 END:VEVENT
 BEGIN:VEVENT
 UID:11649-20260513@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 SUMMARY:Concertos Semanais da Orquestra de Bandolins
@@ -1230,24 +1216,8 @@ DESCRIPTION:Reconhecida como a Orquestra de Bandolins mais antiga e mais jo
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-semanais-da-orquestra-de-bandolins/
 END:VEVENT
 BEGIN:VEVENT
-UID:20137-20260509@visitmadeira.com
-DTSTAMP:20260509T061224Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Workshop do Artesão no Posto de Turismo da Madeira em Lisboa
-LOCATION:Lisboa
-DESCRIPTION:No dia 9 de maio\, das 15h às 18h\, o Posto de Informação e 
- Promoção Turística da Madeira em Lisboa vai receber um workshop inspira
- do no Bordado Madeira. Esta é uma oportunidade única para reinterpretar 
- esta tradição centenária e incorporá-la no teu guarda-roupa.\\nMais in
- fo: https://visitmadeira.com/pt/a-acontecer/eventos/workshop-do-artesao-no
- -posto-de-turismo-da-madeira-em-lisboa/\\nSite oficial: https://www.instag
- ram.com/visitmadeirainlisbon/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/workshop-do-artesao-no-posto-de-turismo-da-madeira-em-lisboa/
-END:VEVENT
-BEGIN:VEVENT
 UID:19376-20260521@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Orquestra de Cordas | Ensemble XXI  -  OCM
@@ -1262,7 +1232,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/orquestra-de-cordas-ensemble
 END:VEVENT
 BEGIN:VEVENT
 UID:16210-20260523@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Quinteto de Sopros "Atlântida"| OCM
@@ -1277,22 +1247,8 @@ DESCRIPTION:O Quinteto de Sopros "Atlântida" da Orquestra Clássica da Mad
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/quinteto-de-sopros-atlantida-ocm/
 END:VEVENT
 BEGIN:VEVENT
-UID:14332-20260509@visitmadeira.com
-DTSTAMP:20260509T061224Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Concerto Quarteto de Cordas “Atlântico”| OCM
-LOCATION:Funchal
-DESCRIPTION:O Quarteto de Cordas “Atlântico” apresenta-se a 9 de maio\
- , na Capela Princesa D. Maria Amélia\, pelas 18 horas.\\nMais info: https
- ://visitmadeira.com/pt/a-acontecer/eventos/concerto-quarteto-de-cordas-atl
- antico-ocm/\\nSite oficial: https://www.ocmadeira.pt/concertos/proximos-ev
- entos/musica-camara/259-quarteto-de-cordas-atlantico.html
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concerto-quarteto-de-cordas-atlantico-ocm/
-END:VEVENT
-BEGIN:VEVENT
 UID:11949-20260731@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260810
 SUMMARY:Semana Gastronómica de Machico
@@ -1309,7 +1265,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-gastronomica-de-machi
 END:VEVENT
 BEGIN:VEVENT
 UID:12788-20261017@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Ecotrail Funchal
@@ -1327,7 +1283,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/ecotrail-funchal/
 END:VEVENT
 BEGIN:VEVENT
 UID:15682-20260414@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260520
 SUMMARY:Ciclo de Concertos Escola das Artes da Madeira
@@ -1343,7 +1299,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/ciclo-de-concertos-escola-da
 END:VEVENT
 BEGIN:VEVENT
 UID:14693-20260523@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Monte do Imperador
@@ -1361,7 +1317,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/monte-do-imperador/
 END:VEVENT
 BEGIN:VEVENT
 UID:9808-20270131@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Maratona do Funchal
@@ -1378,9 +1334,9 @@ DESCRIPTION:A Maratona do Funchal é uma das maiores provas de atletismo da
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/maratona-do-funchal/
 END:VEVENT
 BEGIN:VEVENT
-UID:11328-20260509@visitmadeira.com
-DTSTAMP:20260509T061224Z
-DTSTART;VALUE=DATE:20260509
+UID:11328-20260510@visitmadeira.com
+DTSTAMP:20260510T063009Z
+DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
 SUMMARY:Concertos da Flor
 LOCATION:Funchal | Porto Moniz | Câmara de Lobos | Ribeira Brava
@@ -1394,7 +1350,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:11328-20260529@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
 SUMMARY:Concertos da Flor
@@ -1409,7 +1365,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:11350-20260514@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260518
 SUMMARY:Festival Aqui Acolá
@@ -1424,7 +1380,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-aqui-acola/
 END:VEVENT
 BEGIN:VEVENT
 UID:16706-20260504@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260529
 SUMMARY:Oficinas da Flor
@@ -1440,7 +1396,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/oficinas-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:12299-20260730@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260802
 SUMMARY:Rali da Madeira
@@ -1457,7 +1413,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/rali-da-madeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:11887-20260619@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260622
 SUMMARY:Festa da Cereja
@@ -1474,7 +1430,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-cereja/
 END:VEVENT
 BEGIN:VEVENT
 UID:11894-20260606@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
@@ -1493,7 +1449,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fo
 END:VEVENT
 BEGIN:VEVENT
 UID:11894-20260613@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
@@ -1512,7 +1468,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fo
 END:VEVENT
 BEGIN:VEVENT
 UID:11894-20260620@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
@@ -1531,7 +1487,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fo
 END:VEVENT
 BEGIN:VEVENT
 UID:9743-20260430@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260601
 SUMMARY:Festa da Flor
@@ -1544,7 +1500,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:20208-20260523@visitmadeira.com
-DTSTAMP:20260509T061224Z
+DTSTAMP:20260510T063009Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Bailinho dos Vinhões
