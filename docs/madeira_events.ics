@@ -5,8 +5,1039 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Madeira Events 2026-2027
 BEGIN:VEVENT
+UID:9817-20260928@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:TransMadeira
+LOCATION:Calheta | Funchal | Machico | Santana | São Vicente | Santa Cruz
+DESCRIPTION:Esta prova de Enduro combina uma aventura na Madeira com o melh
+ or do BTT!! No ”Bike Camp Experience” os atletas acampam\, todos os di
+ as\, num sítio diferente\, em locais de beleza espetacular.\nNo TransMade
+ ira\, o objetivo é percorrer cerca de 200 km de trilhos\, com vários tip
+ os de terreno\, no menor tempo possível. Realiza-se de 18 a 23 de maio e 
+ de 28 de setembro a 3 de outubro de 2026\, em duas edições inéditas\, e
+  percorre a ilha desde Machico (Este) até à Calheta (Oeste).\\nMais info
+ : https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/\\nSite ofi
+ cial: https://eventsmadeira.com/evento/transmadeira/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:9817-20261003@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:TransMadeira
+LOCATION:Calheta | Funchal | Machico | Santana | São Vicente | Santa Cruz
+DESCRIPTION:Esta prova de Enduro combina uma aventura na Madeira com o melh
+ or do BTT!! No ”Bike Camp Experience” os atletas acampam\, todos os di
+ as\, num sítio diferente\, em locais de beleza espetacular.\nNo TransMade
+ ira\, o objetivo é percorrer cerca de 200 km de trilhos\, com vários tip
+ os de terreno\, no menor tempo possível. Realiza-se de 18 a 23 de maio e 
+ de 28 de setembro a 3 de outubro de 2026\, em duas edições inéditas\, e
+  percorre a ilha desde Machico (Este) até à Calheta (Oeste).\\nMais info
+ : https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/\\nSite ofi
+ cial: https://eventsmadeira.com/evento/transmadeira/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:9795-20261201@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270111
+SUMMARY:Natal e Passagem de Ano
+LOCATION:Funchal | Porto Moniz | Santana | Porto Santo
+DESCRIPTION:Natal e Passagem de Ano na Madeira? O arquipélago é totalment
+ e envolvido pela magia natalícia\, culminando com o grandioso fogo de art
+ ifício de fim de ano.\\nMais info: https://visitmadeira.com/pt/a-acontece
+ r/eventos/festas-de-natal-e-fim-de-ano/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festas-de-natal-e-fim-de-ano/
+END:VEVENT
+BEGIN:VEVENT
+UID:11977-20260823@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260828
+SUMMARY:Semana Europeia de Folclore
+LOCATION:Funchal
+DESCRIPTION:É um festival de folclore organizado pelo Grupo de Folclore e 
+ Etnográfico da Boa Nova\, que tem por objetivo promover um convívio inte
+ rcultural e dar a conhecer realidades etnográficas. Conta com a participa
+ ção de grupos nacionais e estrangeiros.\\nMais info: https://visitmadeir
+ a.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/\\nSite oficial: 
+ https://eventsmadeira.com/evento/xvii-semana-europeia-de-folclore/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/
+END:VEVENT
+BEGIN:VEVENT
+UID:15543-20261009@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:Feira do Mar e do Pescador
+LOCATION:Machico
+DESCRIPTION:A Feira do Mar e do Pescador é um evento com um caráter recre
+ ativo e gastronómico que procura promover algumas das valências sociais\
+ , culturais e económicas da freguesia\, assim como\, enfatizar as ativida
+ des que estão relacionadas\, direta ou indiretamente\, com o mar. Não pe
+ rca esta oportunidade de visitar o Caniçal e\, já agora\, aproveite e de
+ licie-se com a oferta gastronómica que\, nesta freguesia\, recai\, impera
+ tivamente\, sobre o peixe e o marisco.\\nMais info: https://visitmadeira.c
+ om/pt/a-acontecer/eventos/feira-do-mar-e-do-pescador/\\nSite oficial: http
+ s://eventsmadeira.com/evento/feira-do-mar-e-do-pescador/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/feira-do-mar-e-do-pescador/
+END:VEVENT
+BEGIN:VEVENT
+UID:12758-20261031@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Festa da Castanha
+LOCATION:Curral das Freiras
+DESCRIPTION:Organizada pela Casa do Povo do Curral das Freiras\, a Festa da
+  Castanha é uma oportunidade para todos os visitantes provarem as delicio
+ sas castanhas madeirenses\, e também as iguarias derivadas deste fruto se
+ co\, como licores e bolos. A ocasião é aproveitada ainda para promover u
+ m concurso gastronómico a realizar nos restaurantes situados nesta emblem
+ ática freguesia.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eve
+ ntos/festa-da-castanha/\\nSite oficial: https://eventsmadeira.com/evento/f
+ esta-da-castanha/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-castanha/
+END:VEVENT
+BEGIN:VEVENT
+UID:12441-20261212@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Mostra de Iguarias Tradicionais de Natal
+LOCATION:Boaventura
+DESCRIPTION:A Casa do Povo de Boaventura organiza a Mostra das Iguarias Tra
+ dicionais de Natal\, com o objetivo de promover e dinamizar os produtos da
+  época.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/most
+ ra-de-iguarias-tradicionais-de-natal/\\nSite oficial: https://eventsmadeir
+ a.com/evento/mostra-de-iguarias-tradicionais-de-natal/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-de-iguarias-tradicionais-de-natal/
+END:VEVENT
+BEGIN:VEVENT
+UID:15507-20261002@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+SUMMARY:Festa da Maçã
+LOCATION:Camacha
+DESCRIPTION:Este evento popular pretende valorizar a maçã e os seus deriv
+ ados. O programa inclui animação\, culinária\, folclore\, provas de deg
+ ustação e workshops.\nÉ\, também\, possível acompanhar\, ao vivo\, a 
+ tradicional pisa da maçã.\\nMais info: https://visitmadeira.com/pt/a-aco
+ ntecer/eventos/festa-da-maca/\\nSite oficial: https://eventsmadeira.com/ev
+ ento/xxxvii-festa-da-maca/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-maca/
+END:VEVENT
+BEGIN:VEVENT
+UID:11985-20260905@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
+SUMMARY:Festa da Uva e do Agricultor
+LOCATION:Santana
+DESCRIPTION:A fazer jus ao facto de ser apelidada como a “terra do vinho
+ ” na Madeira\, a Casa do Povo do Porto da Cruz\, organiza\, anualmente a
+  Festa da Uva e do Agricultor\\nMais info: https://visitmadeira.com/pt/a-a
+ contecer/eventos/festa-da-uva-e-do-agricultor/\\nSite oficial: https://eve
+ ntsmadeira.com/evento/festa-da-uva-e-do-agricultor-2/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-uva-e-do-agricultor/
+END:VEVENT
+BEGIN:VEVENT
+UID:15485-20260919@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Festa do Pêro
+LOCATION:Calheta
+DESCRIPTION:De 19 a 20 de setembro\, realiza-se a Festa do Pero é um event
+ o anual de caráter rural\, organizado pela Casa do Povo da Ponta do Pargo
+ \, que reúne muitos agricultores de várias localidades vizinhas.\\nMais 
+ info: https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-pero/\\nSit
+ e oficial: https://eventsmadeira.com/evento/festa-do-pero/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-pero/
+END:VEVENT
+BEGIN:VEVENT
+UID:12881-20261204@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Aldeia de Natal
+LOCATION:Funchal
+DESCRIPTION:A Praça do Município fica inteiramente dedicada aos mais novo
+ s e às famílias e desenvolve uma panóplia de atividades\, onde se propo
+ rcionam momentos de diversão e alegria\, recriando todo o espírito e a e
+ nvolvência natalícia.\\nMais info: https://visitmadeira.com/pt/a-acontec
+ er/eventos/aldeia-de-natal/\\nSite oficial: https://eventsmadeira.com/even
+ to/aldeia-de-natal/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-de-natal/
+END:VEVENT
+BEGIN:VEVENT
+UID:12881-20261206@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Aldeia de Natal
+LOCATION:Funchal
+DESCRIPTION:A Praça do Município fica inteiramente dedicada aos mais novo
+ s e às famílias e desenvolve uma panóplia de atividades\, onde se propo
+ rcionam momentos de diversão e alegria\, recriando todo o espírito e a e
+ nvolvência natalícia.\\nMais info: https://visitmadeira.com/pt/a-acontec
+ er/eventos/aldeia-de-natal/\\nSite oficial: https://eventsmadeira.com/even
+ to/aldeia-de-natal/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-de-natal/
+END:VEVENT
+BEGIN:VEVENT
+UID:11979-20260827@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260914
+SUMMARY:Madeira Wine Lounge
+LOCATION:Funchal
+DESCRIPTION:O Madeira Wine Lounge\, na Praça do Povo\, é um lugar privile
+ giado para os visitantes desfrutarem de provas de vinho e gastronomia\, ao
+  som de grupos musicais regionais de géneros diversos.\\nMais info: https
+ ://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/\\nSite ofi
+ cial: https://eventsmadeira.com/evento/madeira-wine-lounge-2/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/
+END:VEVENT
+BEGIN:VEVENT
+UID:9776-20260823@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260914
+SUMMARY:Festa do Vinho
+LOCATION:Funchal | Câmara de Lobos
+DESCRIPTION:Conheça a Festa do Vinho! Nunca é demais homenagear este prod
+ uto regional\, conhecido pela sua qualidade de excelência um pouco por to
+ do o mundo.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
+ esta-do-vinho/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-vinho/
+END:VEVENT
+BEGIN:VEVENT
+UID:15205-20260819@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20261022
+SUMMARY:Concertos L
+LOCATION:Ponta do Sol
+DESCRIPTION:A Estalagem da Ponta do Sol\, em colaboração a empresa Urbani
+ stas e o Conservatório de Música da Madeira\, promove mais uma edição 
+ dos “Concertos L”. Esta é uma iniciativa cultural\, cuja projeção t
+ em vindo a consolidar-se a nível nacional e internacional.\\nMais info: h
+ ttps://visitmadeira.com/pt/a-acontecer/eventos/concertos-l/\\nSite oficial
+ : https://eventsmadeira.com/evento/concertos-l/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-l/
+END:VEVENT
+BEGIN:VEVENT
+UID:12788-20261017@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Ecotrail Funchal
+LOCATION:Funchal
+DESCRIPTION:A capital madeirense é uma das cidades que acolhe o conceito c
+ onhecido por Ecotrail e que tem já uma tradição estabelecida em Paris\,
+  ao longo da última década. O Funchal foi a quarta cidade europeia a rec
+ eber uma prova desta natureza.\nOs desafios das várias provas de 85\, 45\
+ , 30 ou 15km são o mote que acaba por encantar os participantes\, enquant
+ o o conceito vai ganhando cada vez mais fãs no mundo internacional do Tra
+ il Running..\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/
+ ecotrail-funchal/\\nSite oficial: https://eventsmadeira.com/evento/ecotrai
+ l-funchal/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/ecotrail-funchal/
+END:VEVENT
+BEGIN:VEVENT
+UID:9808-20270131@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Maratona do Funchal
+LOCATION:Funchal
+DESCRIPTION:A Maratona do Funchal é uma das maiores provas de atletismo da
+  cidade\, atraindo várias centenas de atletas\, alguns deles referências
+  mundiais da modalidade. A competição divide-se em três distâncias: Ma
+ ratona (42.195 m)\, Meia Maratona (21.097\,50 m) e Mini Maratona (8.830 m)
+ \, e conta com participantes de mais de 30 países. Sem dúvida uma forma 
+ alternativa de viver uma experiência local e conhecer melhor a nossa capi
+ tal.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/maratona
+ -do-funchal/\\nSite oficial: https://eventsmadeira.com/evento/maratona-do-
+ funchal/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/maratona-do-funchal/
+END:VEVENT
+BEGIN:VEVENT
+UID:11319-20270502@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Grande Cortejo Alegórico
+LOCATION:Funchal
+DESCRIPTION:Nos dias 2 e 16 de maio\, as ruas da baixa funchalense voltam a
+  invadir-se de música\, de cor e de suaves perfumes com dois desfiles ale
+ góricos que\, harmoniosamente\, conjugam múltiplas espécies florais com
+  decorações repletas de criatividade.\\nMais info: https://visitmadeira.
+ com/pt/a-acontecer/eventos/grande-cortejo-alegorico-festa-da-flor/\\nSite 
+ oficial: https://eventsmadeira.com/evento/grande-cortejo-alegorico/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/grande-cortejo-alegorico-festa-da-flor/
+END:VEVENT
+BEGIN:VEVENT
+UID:11319-20270516@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Grande Cortejo Alegórico
+LOCATION:Funchal
+DESCRIPTION:Nos dias 2 e 16 de maio\, as ruas da baixa funchalense voltam a
+  invadir-se de música\, de cor e de suaves perfumes com dois desfiles ale
+ góricos que\, harmoniosamente\, conjugam múltiplas espécies florais com
+  decorações repletas de criatividade.\\nMais info: https://visitmadeira.
+ com/pt/a-acontecer/eventos/grande-cortejo-alegorico-festa-da-flor/\\nSite 
+ oficial: https://eventsmadeira.com/evento/grande-cortejo-alegorico/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/grande-cortejo-alegorico-festa-da-flor/
+END:VEVENT
+BEGIN:VEVENT
+UID:11328-20270513@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:Concertos da Flor
+LOCATION:Funchal | Porto Moniz | Câmara de Lobos | Ribeira Brava
+DESCRIPTION:Quatro concertos musicais serão realizados em espaços emblem
+ áticos da ilha da Madeira com o propósito de descentralizar as festivida
+ des e reforçar a oferta de animação\, integrada no programa da Festa da
+  Flor.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/concer
+ tos-da-flor/\\nSite oficial: https://eventsmadeira.com/evento/concertos-da
+ -flor/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-da-flor/
+END:VEVENT
+BEGIN:VEVENT
+UID:11325-20270509@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Madeira Flower Classic Auto Parade
+LOCATION:Funchal
+DESCRIPTION:Itinerário: Partida da Avenida Francisco Sá Carneiro\, Avenid
+ a do Mar e das Comunidades Madeirenses (faixa norte) até à Praça da Aut
+ onomia\, Avenida do Mar e das Comunidades Madeirenses (faixa sul)\, Avenid
+ a Francisco Sá Carneiro\, Rotunda Harvey Foster. \nExposição na Avenida
+  Francisco Sá Carneiro\, até às 18h30.\\nMais info: https://visitmadeir
+ a.com/pt/a-acontecer/eventos/madeira-flower-classic-auto-parade/\\nSite of
+ icial: https://eventsmadeira.com/evento/madeira-flower-classic-auto-parade
+ /
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-flower-classic-auto-parade/
+END:VEVENT
+BEGIN:VEVENT
+UID:11323-20270508@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Atuação dos Grupos da Flor
+LOCATION:Funchal
+DESCRIPTION:Os grupos participantes do cortejo alegórico da Festa da Flor 
+ atuarão no Heliporto exibindo os seus trajes e coreografias.\\nMais info:
+  https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-fl
+ or/\\nSite oficial: https://eventsmadeira.com/evento/atuacoes-grupos-da-fl
+ or/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-flor/
+END:VEVENT
+BEGIN:VEVENT
+UID:11323-20270522@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Atuação dos Grupos da Flor
+LOCATION:Funchal
+DESCRIPTION:Os grupos participantes do cortejo alegórico da Festa da Flor 
+ atuarão no Heliporto exibindo os seus trajes e coreografias.\\nMais info:
+  https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-fl
+ or/\\nSite oficial: https://eventsmadeira.com/evento/atuacoes-grupos-da-fl
+ or/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-flor/
+END:VEVENT
+BEGIN:VEVENT
+UID:16707-20270507@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Muro da Solidariedade
+LOCATION:Funchal
+DESCRIPTION:Na Placa Central da Avenida Arriaga ergue-se o "Muro da Solidar
+ iedade"- uma cerimónia simbólica\, onde utentes de diversas instituiçõ
+ es de solidariedade social se unem para construir um muro feito de flores.
+ \\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/muro-da-soli
+ dariedade/\\nSite oficial: https://eventsmadeira.com/evento/muro-da-solida
+ riedade/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/muro-da-solidariedade/
+END:VEVENT
+BEGIN:VEVENT
+UID:11332-20270501@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Muro da Esperança
+LOCATION:Funchal
+DESCRIPTION:Construção simbólica do Muro da Esperança. Na manhã de sá
+ bado\, as crianças são convidadas a depositar uma flor no “Muro da Esp
+ erança”\, num apelo simbólico à Paz.\\nMais info: https://visitmadeir
+ a.com/pt/a-acontecer/eventos/muro-da-esperanca/\\nSite oficial: https://ev
+ entsmadeira.com/evento/muro-da-esperanca/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/muro-da-esperanca/
+END:VEVENT
+BEGIN:VEVENT
+UID:9729-20270203@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270215
+SUMMARY:Carnaval
+LOCATION:Funchal | Calheta | Câmara de Lobos | Machico | Ponta do Sol | Po
+ rto Moniz | Ribeira Brava | Santa Cruz | Santana | São Vicente | Porto Sa
+ nto
+DESCRIPTION:Carnaval Madeira - um dos momentos altos do calendário de fest
+ ividades madeirenses. Uma onda de alegria que se espalha por todo o arquip
+ élago.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/carna
+ val/\\nSite oficial: https://visitmadeira.com/media/xxzmwfqk/calendario-an
+ imacao-turistica_-srtac-drt_-pt_2025-2027.pdf
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval/
+END:VEVENT
+BEGIN:VEVENT
+UID:11317-20270528@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270531
+SUMMARY:Madeira Classic Car Revival
+LOCATION:Funchal
+DESCRIPTION:Esta iniciativa\, que decorre na Praça do Povo\, entre os dias
+  28 e 30 de maio\, é organizada pelo Clube de Automóveis Clássicos da M
+ adeira com o propósito de mostrar e premiar os melhores e mais elegantes 
+ veículos antigos e clássicos da Região.\\nMais info: https://visitmadei
+ ra.com/pt/a-acontecer/eventos/madeira-classic-car-revival/\\nSite oficial:
+  https://eventsmadeira.com/evento/madeira-classic-car-revival/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-classic-car-revival/
+END:VEVENT
+BEGIN:VEVENT
+UID:9840-20270205@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270207
+SUMMARY:Cortejo Alegórico Carnaval
+LOCATION:Funchal
+DESCRIPTION:A expressão máxima do Carnaval acontece nos dias 5 e 6 de fev
+ ereiro\, à noite\, com a passagem do exuberante Cortejo Alegórico. Cerca
+  de 1 500 foliões extravagantemente trajados e mais de uma dezena de aleg
+ res carros alegóricos\, integram este desfile.\\nMais info: https://visit
+ madeira.com/pt/a-acontecer/eventos/cortejo-alegorico-carnaval/\\nSite ofic
+ ial: https://eventsmadeira.com/evento/cortejo-alegorico-carnaval/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-alegorico-carnaval/
+END:VEVENT
+BEGIN:VEVENT
+UID:11334-20270515@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Madeira Flower Collection
+LOCATION:Funchal
+DESCRIPTION:Este evento pretende promover o sector da moda regional\, envol
+ vendo um número alargado de criadores sob a inspiração das flores\, con
+ ferindo assim um toque de contemporaneidade e “glamour” a um dos maior
+ es cartazes turísticos da Madeira\, num momento único de animação tur
+ ística.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/made
+ ira-flower-collection/\\nSite oficial: https://eventsmadeira.com/evento/ma
+ deira-flower-collection/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-flower-collection/
+END:VEVENT
+BEGIN:VEVENT
+UID:14846-20270529@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Concurso Vestir à Época
+LOCATION:Funchal
+DESCRIPTION:O concurso “Vestir à Época” regressa nesta edição do Ma
+ deira Classic Car Revival 2027\, com o objetivo de criar uma atmosfera his
+ tórica durante o evento que decorrerá na Praça do Povo.\\nMais info: ht
+ tps://visitmadeira.com/pt/a-acontecer/eventos/concurso-vestir-a-epoca/\\nS
+ ite oficial: https://eventsmadeira.com/evento/concurso-vestir-a-epoca/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-vestir-a-epoca/
+END:VEVENT
+BEGIN:VEVENT
+UID:11330-20270429@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270531
+SUMMARY:Instalações florais
+LOCATION:Funchal
+DESCRIPTION:A diversidade da flora madeirense contribuiu\, em muito\, para 
+ o estabelecimento destas manifestações artísticas\, que aliam a beleza 
+ das flores aos elementos caraterísticos da tradição e cultura madeirens
+ es.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/instalaco
+ es-florais/\\nSite oficial: https://eventsmadeira.com/evento/instalacoes-f
+ lorais/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/instalacoes-florais/
+END:VEVENT
+BEGIN:VEVENT
+UID:15653-20270123@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+SUMMARY:Mostra da Poncha e do Mel da Serra de Água
+LOCATION:Ribeira Brava
+DESCRIPTION:A décima primeira edição da Mostra da Poncha e do Mel é org
+ anizada pela Casa do Povo da Serra de Água e realiza-se de 23 a 24 de jan
+ eiro.\nEsta festa homenageia a famosa bebida regional e os produtos necess
+ ários à sua confecção\, como o mel\, ao mesmo tempo que dinamiza a eco
+ nomia da freguesia.\\nMais info: https://visitmadeira.com/pt/a-acontecer/e
+ ventos/mostra-da-poncha-e-do-mel-da-serra-de-agua/\\nSite oficial: https:/
+ /eventsmadeira.com/evento/ix-mostra-da-poncha-e-do-mel-da-serra-de-agua/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-da-poncha-e-do-mel-da-serra-de-agua/
+END:VEVENT
+BEGIN:VEVENT
+UID:9838-20270205@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Carnaval Solidário
+LOCATION:Funchal
+DESCRIPTION:A baixa da cidade é novamente brindada com mais uma iniciativa
+  de animação que prima pela originalidade e criatividade. Com uma energi
+ a contagiante\, centenas de foliões da Associação de Desenvolvimento Co
+ munitário do Funchal desfilam pela Avenida Arriaga até ao Jardim Municip
+ al\, onde se realiza um espetáculo.\\nMais info: https://visitmadeira.com
+ /pt/a-acontecer/eventos/carnaval-solidario/\\nSite oficial: https://events
+ madeira.com/evento/carnaval-solidario/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval-solidario/
+END:VEVENT
+BEGIN:VEVENT
+UID:13153-20270205@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Carnaval das Crianças
+LOCATION:Funchal
+DESCRIPTION:Na manhã de sexta-feira que antecede o dia de Carnaval\, cerca
+  de um milhar de pequenos foliões\, provenientes de diversos estabelecime
+ ntos de ensino do Funchal\, desfilam ao longo da Praça Central da Avenida
+  Arriaga\, exibindo os seus disfarces de Carnaval\, num ambiente de fantas
+ ia e animação.\\nMais info: https://visitmadeira.com/pt/a-acontecer/even
+ tos/carnaval-das-criancas/\\nSite oficial: https://eventsmadeira.com/event
+ o/carnaval-das-criancas/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval-das-criancas/
+END:VEVENT
+BEGIN:VEVENT
+UID:9843-20270209@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Cortejo Trapalhão
+LOCATION:Funchal
+DESCRIPTION:Na terça-feira de Carnaval realiza-se o Cortejo Trapalhão\, n
+ o Funchal\, que se pode classificar como uma marcha satírica\, cheia de h
+ erança cultural.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eve
+ ntos/cortejo-trapalhao/\\nSite oficial: https://eventsmadeira.com/evento/c
+ ortejo-trapalhao/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-trapalhao/
+END:VEVENT
+BEGIN:VEVENT
+UID:9831-20270128@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Festa dos Compadres
+LOCATION:Santana
+DESCRIPTION:A Festa dos Compadres marca a abertura da época de Carnaval na
+  Madeira\, uma tradição com mais de 50 anos celebrada com grande entusia
+ smo no município de Santana\, iniciativa agendada para os dias 21 e 22 de
+  fevereiro.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
+ esta-dos-compadres/\\nSite oficial: https://eventsmadeira.com/evento/festa
+ -dos-compadres/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
+END:VEVENT
+BEGIN:VEVENT
+UID:9831-20270130@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:Festa dos Compadres
+LOCATION:Santana
+DESCRIPTION:A Festa dos Compadres marca a abertura da época de Carnaval na
+  Madeira\, uma tradição com mais de 50 anos celebrada com grande entusia
+ smo no município de Santana\, iniciativa agendada para os dias 21 e 22 de
+  fevereiro.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
+ esta-dos-compadres/\\nSite oficial: https://eventsmadeira.com/evento/festa
+ -dos-compadres/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
+END:VEVENT
+BEGIN:VEVENT
+UID:9831-20270204@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Festa dos Compadres
+LOCATION:Santana
+DESCRIPTION:A Festa dos Compadres marca a abertura da época de Carnaval na
+  Madeira\, uma tradição com mais de 50 anos celebrada com grande entusia
+ smo no município de Santana\, iniciativa agendada para os dias 21 e 22 de
+  fevereiro.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
+ esta-dos-compadres/\\nSite oficial: https://eventsmadeira.com/evento/festa
+ -dos-compadres/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
+END:VEVENT
+BEGIN:VEVENT
+UID:11322-20261108@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261116
+SUMMARY:Mountain Bike Madeira Meeting
+LOCATION:Porto Moniz
+DESCRIPTION:Este evento tem por objetivo fomentar a prática de BTT e dar a
+  conhecer a Ilha aos participantes. Tendo como base o Porto Moniz\, o rote
+ iro de uma semana inclui visitas a várias localidades\, desportos aquáti
+ cos\, workshops temáticos\, muita animação e convívio.\\nMais info: ht
+ tps://visitmadeira.com/pt/a-acontecer/eventos/mountain-bike-madeira-meetin
+ g/\\nSite oficial: https://eventsmadeira.com/evento/mountain-bike-madeira-
+ meeting/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/mountain-bike-madeira-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:11321-20261018@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261024
+SUMMARY:Madeira Canyoning Meeting
+LOCATION:São Vicente
+DESCRIPTION:O Clube Naval do Seixal\, freguesia do norte da Madeira\, e a F
+ ederação de Campismo e Montanhismo de Portugal organizam este evento anu
+ al que recebe participantes de várias nacionalidades\, todos amantes dest
+ a atividade bem radical.\\nMais info: https://visitmadeira.com/pt/a-aconte
+ cer/eventos/madeira-canyoning-meeting/\\nSite oficial: https://eventsmadei
+ ra.com/evento/madeira-canyoning-meeting/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-canyoning-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:11937-20261010@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:100 Milhas- Historic Rally
+LOCATION:Machico
+DESCRIPTION:O Clube de Automóveis Clássicos da Madeira organiza a corrida
+  “100 Milhas” – Historic Rally: uma competição de regularidade his
+ tórica destinada a viaturas clássicas.\\nMais info: https://visitmadeira
+ .com/pt/a-acontecer/eventos/100-milhas-historic-rally/\\nSite oficial: htt
+ ps://eventsmadeira.com/evento/100-milhas-historic-rally/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/100-milhas-historic-rally/
+END:VEVENT
+BEGIN:VEVENT
+UID:20749-20260911@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260913
+SUMMARY:Madeira Wine Lounge no Posto de Turismo da Madeira em Lisboa
+LOCATION:Lisboa
+DESCRIPTION:Nos dias 11 e 12 de setembro\, o Madeira Wine Lounge regressa a
+  Lisboa. O evento inclui provas e harmonizações gastronómicas\, com vin
+ hos tranquilos e licorosos\, acompanhadas por especialidades regionais com
+ o queijo\, bolo do caco e peixe-espada\, numa celebração da tradição v
+ ínica madeirense.\\nMais info: https://visitmadeira.com/pt/a-acontecer/ev
+ entos/madeira-wine-lounge-no-posto-de-turismo-da-madeira-em-lisboa/\\nSite
+  oficial: https://www.instagram.com/visitmadeirainlisbon/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge-no-posto-de-turismo-da-madeira-em-lisboa/
+END:VEVENT
+BEGIN:VEVENT
+UID:9764-20270731@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270802
+SUMMARY:Clássicos na Magnólia
+LOCATION:Funchal
+DESCRIPTION:"Clássicos na Magnólia" é uma montra viva onde o foco são o
+ s carros clássicos. Admire a sua beleza e conheça histórias fascinantes
+  que atravessam gerações.\\nMais info: https://visitmadeira.com/pt/a-aco
+ ntecer/eventos/classicos-na-magnolia/\\nSite oficial: https://eventsmadeir
+ a.com/evento/classicos-na-magnolia/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/classicos-na-magnolia/
+END:VEVENT
+BEGIN:VEVENT
+UID:12443-20270901@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270905
+SUMMARY:Festa das Vindimas (Blandy)
+LOCATION:Funchal
+DESCRIPTION:No contexto das celebrações da Festa do Vinho na Madeira\, a 
+ empresa Blandy promove um conjunto de ações recreativas\, oferecendo aos
+  turistas e ao público geral a oportunidade de experienciar uma panóplia
+  de atividades\, tais como a pisa da uva\, uma visita às vinhas da famíl
+ ia Blandy\, a degustação de algumas iguarias da doçaria regional\, uma 
+ prova de vinhos\, entre outras.\\nMais info: https://visitmadeira.com/pt/a
+ -acontecer/eventos/festa-das-vindimas-blandy/\\nSite oficial: https://even
+ tsmadeira.com/evento/festa-das-vindimas-blandy/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-blandy/
+END:VEVENT
+BEGIN:VEVENT
+UID:9743-20270429@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270531
+SUMMARY:Festa da Flor
+LOCATION:Funchal
+DESCRIPTION:A Festa da Flor ocorre com a chegada da primavera\, onde os jar
+ dins madeirenses se tornam ainda mais coloridos e exuberantes. Celebra a N
+ atureza.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/fest
+ a-da-flor/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/
+END:VEVENT
+BEGIN:VEVENT
+UID:11998-20260912@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Festa das Vindimas do Estreito
+LOCATION:Câmara de Lobos
+DESCRIPTION:A Festa das Vindimas reúne todos os anos\, na primeira quinzen
+ a de setembro\, milhares de forasteiros na vila do Estreito. Cartaz fundam
+ ental de promoção do destino Madeira\, esta festa recria o trabalho árd
+ uo\, mas alegre das vindimas\, fase essencial na preparação do caminho p
+ ela leva à população do produto mais famoso da madeira\, seu vinho.\\nM
+ ais info: https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindim
+ as-do-estreito/\\nSite oficial: https://eventsmadeira.com/evento/festa-das
+ -vindimas-do-estreito/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-do-estreito/
+END:VEVENT
+BEGIN:VEVENT
+UID:11995-20261022@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+SUMMARY:Rally Madeira Legend
+LOCATION:Funchal | Ribeira Brava | Santa Cruz
+DESCRIPTION:Organizado pelo Club Sports da Madeira\, o Rally Madeira Legend
+  irá para a estrada de 22 a 24 de outubro.\nEsta prova automobilística d
+ estina-se a viaturas Históricas\, Spirit e Legend Show e surge como uma n
+ ova variante da “Volta à Ilha da Madeira – Rally Histórico”\, real
+ izada para comemorar os “60 anos da Volta à Ilha da Madeira”.\\nMais 
+ info: https://visitmadeira.com/pt/a-acontecer/eventos/rally-madeira-legend
+ /\\nSite oficial: https://eventsmadeira.com/evento/rally-madeira-legend-20
+ 24/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/rally-madeira-legend/
+END:VEVENT
+BEGIN:VEVENT
+UID:17055-20270709@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270719
+SUMMARY:Festival Gastronómico da Madeira – SAL
+LOCATION:Funchal
+DESCRIPTION:Entre os dias 9 e 18 de julho\, a Madeira acolhe o Festival Gas
+ tronómico da Madeira – SAL\, um evento gastronómico que celebra a cult
+ ura e o património gastronómico da Região\, combinando tradição e ino
+ vação.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/fest
+ ival-gastronomico-da-madeira-sal/\\nSite oficial: https://eventsmadeira.co
+ m/evento/festival-gastronomico-da-madeira-sal-2/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-gastronomico-da-madeira-sal/
+END:VEVENT
+BEGIN:VEVENT
+UID:9757-20270604@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270628
+SUMMARY:Festival do Atlântico
+LOCATION:Funchal
+DESCRIPTION:Não perca o Festival do Atlântico! A Madeira enche-se de anim
+ ação para celebrar o início do verão com música\, fogo de artifício 
+ e espetáculos memoráveis.\\nMais info: https://visitmadeira.com/pt/a-aco
+ ntecer/eventos/festival-do-atlantico/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-do-atlantico/
+END:VEVENT
+BEGIN:VEVENT
+UID:11894-20270605@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
+LOCATION:Funchal
+DESCRIPTION:O Concurso Internacional de Fogo de Artifício da Madeira englo
+ ba a realização de três espetáculos piromusicais nos primeiros três s
+ ábados de junho e que podem ser apreciados ao longo de toda a baía do Fu
+ nchal\, durante 20 minutos.\nNesta edição\, são concorrentes empresas d
+ e pirotecnia de três países. O objetivo é alcançarem o “Troféu do A
+ tlântico”\, prémio atribuído por um júri. Já o “Troféu Madeira T
+ ão Tua” é atribuído pela votação do público.\\nMais info: https://
+ visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-
+ artificio-da-madeira/\\nSite oficial: https://eventsmadeira.com/evento/con
+ curso-internacional-de-fogo-de-artificio-da-madeira/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-artificio-da-madeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:11894-20270612@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
+LOCATION:Funchal
+DESCRIPTION:O Concurso Internacional de Fogo de Artifício da Madeira englo
+ ba a realização de três espetáculos piromusicais nos primeiros três s
+ ábados de junho e que podem ser apreciados ao longo de toda a baía do Fu
+ nchal\, durante 20 minutos.\nNesta edição\, são concorrentes empresas d
+ e pirotecnia de três países. O objetivo é alcançarem o “Troféu do A
+ tlântico”\, prémio atribuído por um júri. Já o “Troféu Madeira T
+ ão Tua” é atribuído pela votação do público.\\nMais info: https://
+ visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-
+ artificio-da-madeira/\\nSite oficial: https://eventsmadeira.com/evento/con
+ curso-internacional-de-fogo-de-artificio-da-madeira/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-artificio-da-madeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:11894-20270619@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
+LOCATION:Funchal
+DESCRIPTION:O Concurso Internacional de Fogo de Artifício da Madeira englo
+ ba a realização de três espetáculos piromusicais nos primeiros três s
+ ábados de junho e que podem ser apreciados ao longo de toda a baía do Fu
+ nchal\, durante 20 minutos.\nNesta edição\, são concorrentes empresas d
+ e pirotecnia de três países. O objetivo é alcançarem o “Troféu do A
+ tlântico”\, prémio atribuído por um júri. Já o “Troféu Madeira T
+ ão Tua” é atribuído pela votação do público.\\nMais info: https://
+ visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-
+ artificio-da-madeira/\\nSite oficial: https://eventsmadeira.com/evento/con
+ curso-internacional-de-fogo-de-artificio-da-madeira/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-artificio-da-madeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:11883-20270604@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:Mercado Quinhentista
+LOCATION:Machico
+DESCRIPTION:O Mercado Quinhentista é um evento que recria o período hist
+ órico da descoberta do arquipélago e que se realiza\, anualmente\, no La
+ rgo da Praça\, bem no centro da cidade de Machico. Este animado mercado p
+ retende recriar vivências coletivas do período quinhentista\, onde se po
+ dem se observar vários produtos\, apresentações de artesanato\, espaço
+  de comes e bebes\, jogos e animação diversa e exposições variadas.\\n
+ Mais info: https://visitmadeira.com/pt/a-acontecer/eventos/mercado-quinhen
+ tista/\\nSite oficial: https://eventsmadeira.com/evento/mercado-quinhentis
+ ta/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercado-quinhentista/
+END:VEVENT
+BEGIN:VEVENT
+UID:11893-20270605@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Espetáculos Piromusicais
+LOCATION:Funchal | Porto Santo
+DESCRIPTION:A música e o fogo de artifício conjugam-se de forma harmonios
+ a\, assinalando o início e término do Festival do Atlântico. \nPor sua 
+ vez\, o encerramento das festividades acontece com dois espetáculos: o pr
+ imeiro terá lugar na ilha do Porto Santo\, junto ao cais da cidade de Vil
+ a Baleira\, no dia 23 de junho\, e o segundo decorrerá no Funchal\, a 26 
+ de junho.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/esp
+ etaculos-piromusicais/\\nSite oficial: https://eventsmadeira.com/evento/es
+ petaculos-piromusicais/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
+END:VEVENT
+BEGIN:VEVENT
+UID:11893-20270612@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Espetáculos Piromusicais
+LOCATION:Funchal | Porto Santo
+DESCRIPTION:A música e o fogo de artifício conjugam-se de forma harmonios
+ a\, assinalando o início e término do Festival do Atlântico. \nPor sua 
+ vez\, o encerramento das festividades acontece com dois espetáculos: o pr
+ imeiro terá lugar na ilha do Porto Santo\, junto ao cais da cidade de Vil
+ a Baleira\, no dia 23 de junho\, e o segundo decorrerá no Funchal\, a 26 
+ de junho.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/esp
+ etaculos-piromusicais/\\nSite oficial: https://eventsmadeira.com/evento/es
+ petaculos-piromusicais/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
+END:VEVENT
+BEGIN:VEVENT
+UID:11893-20270619@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Espetáculos Piromusicais
+LOCATION:Funchal | Porto Santo
+DESCRIPTION:A música e o fogo de artifício conjugam-se de forma harmonios
+ a\, assinalando o início e término do Festival do Atlântico. \nPor sua 
+ vez\, o encerramento das festividades acontece com dois espetáculos: o pr
+ imeiro terá lugar na ilha do Porto Santo\, junto ao cais da cidade de Vil
+ a Baleira\, no dia 23 de junho\, e o segundo decorrerá no Funchal\, a 26 
+ de junho.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/esp
+ etaculos-piromusicais/\\nSite oficial: https://eventsmadeira.com/evento/es
+ petaculos-piromusicais/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
+END:VEVENT
+BEGIN:VEVENT
+UID:11893-20270626@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Espetáculos Piromusicais
+LOCATION:Funchal | Porto Santo
+DESCRIPTION:A música e o fogo de artifício conjugam-se de forma harmonios
+ a\, assinalando o início e término do Festival do Atlântico. \nPor sua 
+ vez\, o encerramento das festividades acontece com dois espetáculos: o pr
+ imeiro terá lugar na ilha do Porto Santo\, junto ao cais da cidade de Vil
+ a Baleira\, no dia 23 de junho\, e o segundo decorrerá no Funchal\, a 26 
+ de junho.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/esp
+ etaculos-piromusicais/\\nSite oficial: https://eventsmadeira.com/evento/es
+ petaculos-piromusicais/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
+END:VEVENT
+BEGIN:VEVENT
+UID:11895-20270604@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270628
+SUMMARY:Mercadinho Sunset de Verão
+LOCATION:Funchal
+DESCRIPTION:Os fins de semana são\, por esta altura\, mais animados e conv
+ idativos a atividades ao ar livre. Justamente por isso\, durante o mês de
+  junho\, de quinta-feira a domingo\, poderá desfrutar de um animado sunse
+ t no jardim localizado junto à Praça do Povo\, onde não vai faltar a m
+ úsica\, o bom ambiente\, e ainda\, espaços gastronómicos com os tradici
+ onais produtos madeirenses.\\nMais info: https://visitmadeira.com/pt/a-aco
+ ntecer/eventos/sunsets-de-verao/\\nSite oficial: https://eventsmadeira.com
+ /evento/mercadinho-sunset-de-verao/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/sunsets-de-verao/
+END:VEVENT
+BEGIN:VEVENT
+UID:16941-20270605@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270627
+SUMMARY:Ópera no Pico
+LOCATION:Funchal
+DESCRIPTION:Descubra uma nova dimensão da cultura na deslumbrante Fortalez
+ a do Pico com o ciclo “Ópera no Pico”. Prepare-se para quatro noites 
+ inesquecíveis de música\, paixão e espetáculos pirotécnicos sob as es
+ trelas durante o Festival Atlântico.\\nMais info: https://visitmadeira.co
+ m/pt/a-acontecer/eventos/opera-no-pico/\\nSite oficial: https://eventsmade
+ ira.com/evento/opera-no-pico/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/opera-no-pico/
+END:VEVENT
+BEGIN:VEVENT
+UID:20333-20270604@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:DOC. Atlântico
+LOCATION:Ponta do Sol | Piscinas Naturais do Porto Moniz | Santa Cruz | Fun
+ chal
+DESCRIPTION:Iniciativa de cinema documental dedicada à valorização do pa
+ trimónio natural\, científico e paisagístico da Região Autónoma da Ma
+ deira.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/doc-at
+ lantico/\\nSite oficial: https://eventsmadeira.com/evento/doc-atlantico/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
+END:VEVENT
+BEGIN:VEVENT
+UID:20333-20270611@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:DOC. Atlântico
+LOCATION:Ponta do Sol | Piscinas Naturais do Porto Moniz | Santa Cruz | Fun
+ chal
+DESCRIPTION:Iniciativa de cinema documental dedicada à valorização do pa
+ trimónio natural\, científico e paisagístico da Região Autónoma da Ma
+ deira.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/doc-at
+ lantico/\\nSite oficial: https://eventsmadeira.com/evento/doc-atlantico/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
+END:VEVENT
+BEGIN:VEVENT
+UID:20333-20270618@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:DOC. Atlântico
+LOCATION:Ponta do Sol | Piscinas Naturais do Porto Moniz | Santa Cruz | Fun
+ chal
+DESCRIPTION:Iniciativa de cinema documental dedicada à valorização do pa
+ trimónio natural\, científico e paisagístico da Região Autónoma da Ma
+ deira.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/doc-at
+ lantico/\\nSite oficial: https://eventsmadeira.com/evento/doc-atlantico/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
+END:VEVENT
+BEGIN:VEVENT
+UID:20333-20270625@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:DOC. Atlântico
+LOCATION:Ponta do Sol | Piscinas Naturais do Porto Moniz | Santa Cruz | Fun
+ chal
+DESCRIPTION:Iniciativa de cinema documental dedicada à valorização do pa
+ trimónio natural\, científico e paisagístico da Região Autónoma da Ma
+ deira.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/doc-at
+ lantico/\\nSite oficial: https://eventsmadeira.com/evento/doc-atlantico/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
+END:VEVENT
+BEGIN:VEVENT
+UID:11911-20270607@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270613
+SUMMARY:Semana Regional das Artes
+LOCATION:Funchal
+DESCRIPTION:Esta é uma semana composta por um conjunto de dinâmicas artí
+ sticas que transformam a cidade do Funchal num espaço de criatividade\, a
+ través de manifestações e performances de música\, a dança\, canto\, 
+ movimento e cinema.\\nMais info: https://visitmadeira.com/pt/a-acontecer/e
+ ventos/semana-regional-das-artes/\\nSite oficial: https://eventsmadeira.co
+ m/evento/semana-regional-das-artes/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-regional-das-artes/
+END:VEVENT
+BEGIN:VEVENT
+UID:9812-20270424@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:MIUT - Madeira Island Ultra Trail
+LOCATION:Machico | Porto Moniz
+DESCRIPTION:Sendo a prova rainha do Trail Running na Madeira\, o MIUT tem c
+ onseguido\, ano após ano\, juntar um conjunto de atletas da elite do ITRA
+  – International Trail-Running Association\, acompanhados por várias ce
+ ntenas de outros atletas\, que a cada ano que passa\, tornam a lista de in
+ scritos cada vez maior\, ultrapassando já os dois mil participantes.\nSen
+ do a prova maior com 115km e 7100 d+\, o desafio de travessia da ilha de u
+ ma ponta à outra é\, sem dúvida\, e descrito por muitos\, uma verdadeir
+ a experiência de vida.\nA diversidade e o deslumbramento das paisagens qu
+ e estes atletas vão encontrando ao longo do percurso\, os desafios de lon
+ gas descidas e subidas é\, para a maioria\, o que torna esta aventura ain
+ da mais rica.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos
+ /miut-madeira-island-ultra-trail/\\nSite oficial: https://eventsmadeira.co
+ m/evento/miut-madeira-island-ultra-trail/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/miut-madeira-island-ultra-trail/
+END:VEVENT
+BEGIN:VEVENT
+UID:20687-20260918@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260920
+SUMMARY:IX Torneio Colombo's Golf Trophy
+LOCATION:Porto Santo
+DESCRIPTION:Nos dias 18 e 19 de setembro de 2026\, o Porto Santo Golfe rece
+ be a IX edição do Torneio "Colombo's Golf Trophy"\, integrado no program
+ a oficial do Festival Colombo\, na ilha do Porto Santo.\\nMais info: https
+ ://visitmadeira.com/pt/a-acontecer/eventos/ix-torneio-colombos-golf-trophy
+ /\\nSite oficial: https://eventsmadeira.com/evento/ix-torneio-colombos-gol
+ f-trophy/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/ix-torneio-colombos-golf-trophy/
+END:VEVENT
+BEGIN:VEVENT
 UID:11993-20260905@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
 SUMMARY:Concertos das Vinhas ao Lagar
@@ -21,7 +1052,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-das-vinhas-ao-laga
 END:VEVENT
 BEGIN:VEVENT
 UID:11993-20260912@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Concertos das Vinhas ao Lagar
@@ -36,7 +1067,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-das-vinhas-ao-laga
 END:VEVENT
 BEGIN:VEVENT
 UID:9790-20261006@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261012
 SUMMARY:Festival da Natureza
@@ -49,7 +1080,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-da-natureza/
 END:VEVENT
 BEGIN:VEVENT
 UID:12914-20270105@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Cantar dos Reis
@@ -68,7 +1099,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/cantar-dos-reis/
 END:VEVENT
 BEGIN:VEVENT
 UID:9805-20261223@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Noite do Mercado
@@ -91,7 +1122,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/noite-do-mercado/
 END:VEVENT
 BEGIN:VEVENT
 UID:19752-20261201@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270111
 SUMMARY:Mercadinho de Natal
@@ -108,7 +1139,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercadinho-de-natal/
 END:VEVENT
 BEGIN:VEVENT
 UID:9821-20261231@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270102
 SUMMARY:Espetáculo de Fim de Ano
@@ -124,7 +1155,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculo-de-fim-de-ano/
 END:VEVENT
 BEGIN:VEVENT
 UID:19760-20261201@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270111
 SUMMARY:Aldeia Etnográfica
@@ -138,7 +1169,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-etnografica/
 END:VEVENT
 BEGIN:VEVENT
 UID:9784-20260917@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260921
 SUMMARY:Festival Colombo
@@ -151,7 +1182,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-colombo/
 END:VEVENT
 BEGIN:VEVENT
 UID:11999-20261215@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261224
 SUMMARY:Missas do Parto
@@ -169,1050 +1200,35 @@ DESCRIPTION:A partir da primeira quinzena de dezembro até à véspera de N
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/missas-do-parto/
 END:VEVENT
 BEGIN:VEVENT
-UID:9817-20260928@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:TransMadeira
-LOCATION:Calheta | Funchal | Machico | Santana | São Vicente | Santa Cruz
-DESCRIPTION:Esta prova de Enduro combina uma aventura na Madeira com o melh
- or do BTT!! No ”Bike Camp Experience” os atletas acampam\, todos os di
- as\, num sítio diferente\, em locais de beleza espetacular.\nNo TransMade
- ira\, o objetivo é percorrer cerca de 200 km de trilhos\, com vários tip
- os de terreno\, no menor tempo possível. Realiza-se de 18 a 23 de maio e 
- de 28 de setembro a 3 de outubro de 2026\, em duas edições inéditas\, e
-  percorre a ilha desde Machico (Este) até à Calheta (Oeste).\\nMais info
- : https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/\\nSite ofi
- cial: https://eventsmadeira.com/evento/transmadeira/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
-END:VEVENT
-BEGIN:VEVENT
-UID:9817-20261003@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:TransMadeira
-LOCATION:Calheta | Funchal | Machico | Santana | São Vicente | Santa Cruz
-DESCRIPTION:Esta prova de Enduro combina uma aventura na Madeira com o melh
- or do BTT!! No ”Bike Camp Experience” os atletas acampam\, todos os di
- as\, num sítio diferente\, em locais de beleza espetacular.\nNo TransMade
- ira\, o objetivo é percorrer cerca de 200 km de trilhos\, com vários tip
- os de terreno\, no menor tempo possível. Realiza-se de 18 a 23 de maio e 
- de 28 de setembro a 3 de outubro de 2026\, em duas edições inéditas\, e
-  percorre a ilha desde Machico (Este) até à Calheta (Oeste).\\nMais info
- : https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/\\nSite ofi
- cial: https://eventsmadeira.com/evento/transmadeira/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
-END:VEVENT
-BEGIN:VEVENT
-UID:9795-20261201@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20270111
-SUMMARY:Natal e Passagem de Ano
-LOCATION:Funchal | Porto Moniz | Santana | Porto Santo
-DESCRIPTION:Natal e Passagem de Ano na Madeira? O arquipélago é totalment
- e envolvido pela magia natalícia\, culminando com o grandioso fogo de art
- ifício de fim de ano.\\nMais info: https://visitmadeira.com/pt/a-acontece
- r/eventos/festas-de-natal-e-fim-de-ano/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festas-de-natal-e-fim-de-ano/
-END:VEVENT
-BEGIN:VEVENT
-UID:11977-20260823@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260828
-SUMMARY:Semana Europeia de Folclore
-LOCATION:Funchal
-DESCRIPTION:É um festival de folclore organizado pelo Grupo de Folclore e 
- Etnográfico da Boa Nova\, que tem por objetivo promover um convívio inte
- rcultural e dar a conhecer realidades etnográficas. Conta com a participa
- ção de grupos nacionais e estrangeiros.\\nMais info: https://visitmadeir
- a.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/\\nSite oficial: 
- https://eventsmadeira.com/evento/xvii-semana-europeia-de-folclore/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/
-END:VEVENT
-BEGIN:VEVENT
-UID:15543-20261009@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261012
-SUMMARY:Feira do Mar e do Pescador
-LOCATION:Machico
-DESCRIPTION:A Feira do Mar e do Pescador é um evento com um caráter recre
- ativo e gastronómico que procura promover algumas das valências sociais\
- , culturais e económicas da freguesia\, assim como\, enfatizar as ativida
- des que estão relacionadas\, direta ou indiretamente\, com o mar. Não pe
- rca esta oportunidade de visitar o Caniçal e\, já agora\, aproveite e de
- licie-se com a oferta gastronómica que\, nesta freguesia\, recai\, impera
- tivamente\, sobre o peixe e o marisco.\\nMais info: https://visitmadeira.c
- om/pt/a-acontecer/eventos/feira-do-mar-e-do-pescador/\\nSite oficial: http
- s://eventsmadeira.com/evento/feira-do-mar-e-do-pescador/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/feira-do-mar-e-do-pescador/
-END:VEVENT
-BEGIN:VEVENT
-UID:12758-20261031@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-SUMMARY:Festa da Castanha
-LOCATION:Curral das Freiras
-DESCRIPTION:Organizada pela Casa do Povo do Curral das Freiras\, a Festa da
-  Castanha é uma oportunidade para todos os visitantes provarem as delicio
- sas castanhas madeirenses\, e também as iguarias derivadas deste fruto se
- co\, como licores e bolos. A ocasião é aproveitada ainda para promover u
- m concurso gastronómico a realizar nos restaurantes situados nesta emblem
- ática freguesia.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eve
- ntos/festa-da-castanha/\\nSite oficial: https://eventsmadeira.com/evento/f
- esta-da-castanha/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-castanha/
-END:VEVENT
-BEGIN:VEVENT
-UID:12441-20261212@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261214
-SUMMARY:Mostra de Iguarias Tradicionais de Natal
-LOCATION:Boaventura
-DESCRIPTION:A Casa do Povo de Boaventura organiza a Mostra das Iguarias Tra
- dicionais de Natal\, com o objetivo de promover e dinamizar os produtos da
-  época.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/most
- ra-de-iguarias-tradicionais-de-natal/\\nSite oficial: https://eventsmadeir
- a.com/evento/mostra-de-iguarias-tradicionais-de-natal/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-de-iguarias-tradicionais-de-natal/
-END:VEVENT
-BEGIN:VEVENT
-UID:15507-20261002@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-SUMMARY:Festa da Maçã
-LOCATION:Camacha
-DESCRIPTION:Este evento popular pretende valorizar a maçã e os seus deriv
- ados. O programa inclui animação\, culinária\, folclore\, provas de deg
- ustação e workshops.\nÉ\, também\, possível acompanhar\, ao vivo\, a 
- tradicional pisa da maçã.\\nMais info: https://visitmadeira.com/pt/a-aco
- ntecer/eventos/festa-da-maca/\\nSite oficial: https://eventsmadeira.com/ev
- ento/xxxvii-festa-da-maca/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-maca/
-END:VEVENT
-BEGIN:VEVENT
-UID:11985-20260905@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260907
-SUMMARY:Festa da Uva e do Agricultor
-LOCATION:Santana
-DESCRIPTION:A fazer jus ao facto de ser apelidada como a “terra do vinho
- ” na Madeira\, a Casa do Povo do Porto da Cruz\, organiza\, anualmente a
-  Festa da Uva e do Agricultor\\nMais info: https://visitmadeira.com/pt/a-a
- contecer/eventos/festa-da-uva-e-do-agricultor/\\nSite oficial: https://eve
- ntsmadeira.com/evento/festa-da-uva-e-do-agricultor-2/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-uva-e-do-agricultor/
-END:VEVENT
-BEGIN:VEVENT
-UID:15485-20260919@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-SUMMARY:Festa do Pêro
-LOCATION:Calheta
-DESCRIPTION:De 19 a 20 de setembro\, realiza-se a Festa do Pero é um event
- o anual de caráter rural\, organizado pela Casa do Povo da Ponta do Pargo
- \, que reúne muitos agricultores de várias localidades vizinhas.\\nMais 
- info: https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-pero/\\nSit
- e oficial: https://eventsmadeira.com/evento/festa-do-pero/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-pero/
-END:VEVENT
-BEGIN:VEVENT
-UID:12881-20261204@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Aldeia de Natal
-LOCATION:Funchal
-DESCRIPTION:A Praça do Município fica inteiramente dedicada aos mais novo
- s e às famílias e desenvolve uma panóplia de atividades\, onde se propo
- rcionam momentos de diversão e alegria\, recriando todo o espírito e a e
- nvolvência natalícia.\\nMais info: https://visitmadeira.com/pt/a-acontec
- er/eventos/aldeia-de-natal/\\nSite oficial: https://eventsmadeira.com/even
- to/aldeia-de-natal/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-de-natal/
-END:VEVENT
-BEGIN:VEVENT
-UID:12881-20261206@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:Aldeia de Natal
-LOCATION:Funchal
-DESCRIPTION:A Praça do Município fica inteiramente dedicada aos mais novo
- s e às famílias e desenvolve uma panóplia de atividades\, onde se propo
- rcionam momentos de diversão e alegria\, recriando todo o espírito e a e
- nvolvência natalícia.\\nMais info: https://visitmadeira.com/pt/a-acontec
- er/eventos/aldeia-de-natal/\\nSite oficial: https://eventsmadeira.com/even
- to/aldeia-de-natal/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-de-natal/
-END:VEVENT
-BEGIN:VEVENT
-UID:11979-20260827@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260914
-SUMMARY:Madeira Wine Lounge
-LOCATION:Funchal
-DESCRIPTION:O Madeira Wine Lounge\, na Praça do Povo\, é um lugar privile
- giado para os visitantes desfrutarem de provas de vinho e gastronomia\, ao
-  som de grupos musicais regionais de géneros diversos.\\nMais info: https
- ://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/\\nSite ofi
- cial: https://eventsmadeira.com/evento/madeira-wine-lounge-2/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/
-END:VEVENT
-BEGIN:VEVENT
-UID:15653-20270123@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270125
-SUMMARY:Mostra da Poncha e do Mel da Serra de Água
-LOCATION:Ribeira Brava
-DESCRIPTION:A décima primeira edição da Mostra da Poncha e do Mel é org
- anizada pela Casa do Povo da Serra de Água e realiza-se de 23 a 24 de jan
- eiro.\nEsta festa homenageia a famosa bebida regional e os produtos necess
- ários à sua confecção\, como o mel\, ao mesmo tempo que dinamiza a eco
- nomia da freguesia.\\nMais info: https://visitmadeira.com/pt/a-acontecer/e
- ventos/mostra-da-poncha-e-do-mel-da-serra-de-agua/\\nSite oficial: https:/
- /eventsmadeira.com/evento/ix-mostra-da-poncha-e-do-mel-da-serra-de-agua/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-da-poncha-e-do-mel-da-serra-de-agua/
-END:VEVENT
-BEGIN:VEVENT
-UID:9838-20270205@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270206
-SUMMARY:Carnaval Solidário
-LOCATION:Funchal
-DESCRIPTION:A baixa da cidade é novamente brindada com mais uma iniciativa
-  de animação que prima pela originalidade e criatividade. Com uma energi
- a contagiante\, centenas de foliões da Associação de Desenvolvimento Co
- munitário do Funchal desfilam pela Avenida Arriaga até ao Jardim Municip
- al\, onde se realiza um espetáculo.\\nMais info: https://visitmadeira.com
- /pt/a-acontecer/eventos/carnaval-solidario/\\nSite oficial: https://events
- madeira.com/evento/carnaval-solidario/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval-solidario/
-END:VEVENT
-BEGIN:VEVENT
-UID:13153-20270205@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270206
-SUMMARY:Carnaval das Crianças
-LOCATION:Funchal
-DESCRIPTION:Na manhã de sexta-feira que antecede o dia de Carnaval\, cerca
-  de um milhar de pequenos foliões\, provenientes de diversos estabelecime
- ntos de ensino do Funchal\, desfilam ao longo da Praça Central da Avenida
-  Arriaga\, exibindo os seus disfarces de Carnaval\, num ambiente de fantas
- ia e animação.\\nMais info: https://visitmadeira.com/pt/a-acontecer/even
- tos/carnaval-das-criancas/\\nSite oficial: https://eventsmadeira.com/event
- o/carnaval-das-criancas/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval-das-criancas/
-END:VEVENT
-BEGIN:VEVENT
-UID:9843-20270209@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
-SUMMARY:Cortejo Trapalhão
-LOCATION:Funchal
-DESCRIPTION:Na terça-feira de Carnaval realiza-se o Cortejo Trapalhão\, n
- o Funchal\, que se pode classificar como uma marcha satírica\, cheia de h
- erança cultural.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eve
- ntos/cortejo-trapalhao/\\nSite oficial: https://eventsmadeira.com/evento/c
- ortejo-trapalhao/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-trapalhao/
-END:VEVENT
-BEGIN:VEVENT
-UID:9831-20270128@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
-SUMMARY:Festa dos Compadres
-LOCATION:Santana
-DESCRIPTION:A Festa dos Compadres marca a abertura da época de Carnaval na
-  Madeira\, uma tradição com mais de 50 anos celebrada com grande entusia
- smo no município de Santana\, iniciativa agendada para os dias 21 e 22 de
-  fevereiro.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
- esta-dos-compadres/\\nSite oficial: https://eventsmadeira.com/evento/festa
- -dos-compadres/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
-END:VEVENT
-BEGIN:VEVENT
-UID:9831-20270130@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270201
-SUMMARY:Festa dos Compadres
-LOCATION:Santana
-DESCRIPTION:A Festa dos Compadres marca a abertura da época de Carnaval na
-  Madeira\, uma tradição com mais de 50 anos celebrada com grande entusia
- smo no município de Santana\, iniciativa agendada para os dias 21 e 22 de
-  fevereiro.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
- esta-dos-compadres/\\nSite oficial: https://eventsmadeira.com/evento/festa
- -dos-compadres/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
-END:VEVENT
-BEGIN:VEVENT
-UID:9831-20270204@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270204
-DTEND;VALUE=DATE:20270205
-SUMMARY:Festa dos Compadres
-LOCATION:Santana
-DESCRIPTION:A Festa dos Compadres marca a abertura da época de Carnaval na
-  Madeira\, uma tradição com mais de 50 anos celebrada com grande entusia
- smo no município de Santana\, iniciativa agendada para os dias 21 e 22 de
-  fevereiro.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
- esta-dos-compadres/\\nSite oficial: https://eventsmadeira.com/evento/festa
- -dos-compadres/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
-END:VEVENT
-BEGIN:VEVENT
-UID:11322-20261108@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261116
-SUMMARY:Mountain Bike Madeira Meeting
-LOCATION:Porto Moniz
-DESCRIPTION:Este evento tem por objetivo fomentar a prática de BTT e dar a
-  conhecer a Ilha aos participantes. Tendo como base o Porto Moniz\, o rote
- iro de uma semana inclui visitas a várias localidades\, desportos aquáti
- cos\, workshops temáticos\, muita animação e convívio.\\nMais info: ht
- tps://visitmadeira.com/pt/a-acontecer/eventos/mountain-bike-madeira-meetin
- g/\\nSite oficial: https://eventsmadeira.com/evento/mountain-bike-madeira-
- meeting/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/mountain-bike-madeira-meeting/
-END:VEVENT
-BEGIN:VEVENT
-UID:11321-20261018@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261024
-SUMMARY:Madeira Canyoning Meeting
-LOCATION:São Vicente
-DESCRIPTION:O Clube Naval do Seixal\, freguesia do norte da Madeira\, e a F
- ederação de Campismo e Montanhismo de Portugal organizam este evento anu
- al que recebe participantes de várias nacionalidades\, todos amantes dest
- a atividade bem radical.\\nMais info: https://visitmadeira.com/pt/a-aconte
- cer/eventos/madeira-canyoning-meeting/\\nSite oficial: https://eventsmadei
- ra.com/evento/madeira-canyoning-meeting/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-canyoning-meeting/
-END:VEVENT
-BEGIN:VEVENT
-UID:11937-20261010@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:100 Milhas- Historic Rally
-LOCATION:Machico
-DESCRIPTION:O Clube de Automóveis Clássicos da Madeira organiza a corrida
-  “100 Milhas” – Historic Rally: uma competição de regularidade his
- tórica destinada a viaturas clássicas.\\nMais info: https://visitmadeira
- .com/pt/a-acontecer/eventos/100-milhas-historic-rally/\\nSite oficial: htt
- ps://eventsmadeira.com/evento/100-milhas-historic-rally/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/100-milhas-historic-rally/
-END:VEVENT
-BEGIN:VEVENT
-UID:12788-20261017@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Ecotrail Funchal
-LOCATION:Funchal
-DESCRIPTION:A capital madeirense é uma das cidades que acolhe o conceito c
- onhecido por Ecotrail e que tem já uma tradição estabelecida em Paris\,
-  ao longo da última década. O Funchal foi a quarta cidade europeia a rec
- eber uma prova desta natureza.\nOs desafios das várias provas de 85\, 45\
- , 30 ou 15km são o mote que acaba por encantar os participantes\, enquant
- o o conceito vai ganhando cada vez mais fãs no mundo internacional do Tra
- il Running..\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/
- ecotrail-funchal/\\nSite oficial: https://eventsmadeira.com/evento/ecotrai
- l-funchal/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/ecotrail-funchal/
-END:VEVENT
-BEGIN:VEVENT
-UID:9808-20270131@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
-SUMMARY:Maratona do Funchal
-LOCATION:Funchal
-DESCRIPTION:A Maratona do Funchal é uma das maiores provas de atletismo da
-  cidade\, atraindo várias centenas de atletas\, alguns deles referências
-  mundiais da modalidade. A competição divide-se em três distâncias: Ma
- ratona (42.195 m)\, Meia Maratona (21.097\,50 m) e Mini Maratona (8.830 m)
- \, e conta com participantes de mais de 30 países. Sem dúvida uma forma 
- alternativa de viver uma experiência local e conhecer melhor a nossa capi
- tal.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/maratona
- -do-funchal/\\nSite oficial: https://eventsmadeira.com/evento/maratona-do-
- funchal/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/maratona-do-funchal/
-END:VEVENT
-BEGIN:VEVENT
-UID:11319-20270502@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
-SUMMARY:Grande Cortejo Alegórico
-LOCATION:Funchal
-DESCRIPTION:Nos dias 2 e 16 de maio\, as ruas da baixa funchalense voltam a
-  invadir-se de música\, de cor e de suaves perfumes com dois desfiles ale
- góricos que\, harmoniosamente\, conjugam múltiplas espécies florais com
-  decorações repletas de criatividade.\\nMais info: https://visitmadeira.
- com/pt/a-acontecer/eventos/grande-cortejo-alegorico-festa-da-flor/\\nSite 
- oficial: https://eventsmadeira.com/evento/grande-cortejo-alegorico/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/grande-cortejo-alegorico-festa-da-flor/
-END:VEVENT
-BEGIN:VEVENT
-UID:11319-20270516@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270516
-DTEND;VALUE=DATE:20270517
-SUMMARY:Grande Cortejo Alegórico
-LOCATION:Funchal
-DESCRIPTION:Nos dias 2 e 16 de maio\, as ruas da baixa funchalense voltam a
-  invadir-se de música\, de cor e de suaves perfumes com dois desfiles ale
- góricos que\, harmoniosamente\, conjugam múltiplas espécies florais com
-  decorações repletas de criatividade.\\nMais info: https://visitmadeira.
- com/pt/a-acontecer/eventos/grande-cortejo-alegorico-festa-da-flor/\\nSite 
- oficial: https://eventsmadeira.com/evento/grande-cortejo-alegorico/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/grande-cortejo-alegorico-festa-da-flor/
-END:VEVENT
-BEGIN:VEVENT
-UID:11328-20270513@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270513
-DTEND;VALUE=DATE:20270517
-SUMMARY:Concertos da Flor
-LOCATION:Funchal | Porto Moniz | Câmara de Lobos | Ribeira Brava
-DESCRIPTION:Quatro concertos musicais serão realizados em espaços emblem
- áticos da ilha da Madeira com o propósito de descentralizar as festivida
- des e reforçar a oferta de animação\, integrada no programa da Festa da
-  Flor.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/concer
- tos-da-flor/\\nSite oficial: https://eventsmadeira.com/evento/concertos-da
- -flor/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-da-flor/
-END:VEVENT
-BEGIN:VEVENT
-UID:11325-20270509@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-SUMMARY:Madeira Flower Classic Auto Parade
-LOCATION:Funchal
-DESCRIPTION:Itinerário: Partida da Avenida Francisco Sá Carneiro\, Avenid
- a do Mar e das Comunidades Madeirenses (faixa norte) até à Praça da Aut
- onomia\, Avenida do Mar e das Comunidades Madeirenses (faixa sul)\, Avenid
- a Francisco Sá Carneiro\, Rotunda Harvey Foster. \nExposição na Avenida
-  Francisco Sá Carneiro\, até às 18h30.\\nMais info: https://visitmadeir
- a.com/pt/a-acontecer/eventos/madeira-flower-classic-auto-parade/\\nSite of
- icial: https://eventsmadeira.com/evento/madeira-flower-classic-auto-parade
- /
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-flower-classic-auto-parade/
-END:VEVENT
-BEGIN:VEVENT
-UID:11323-20270508@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:Atuação dos Grupos da Flor
-LOCATION:Funchal
-DESCRIPTION:Os grupos participantes do cortejo alegórico da Festa da Flor 
- atuarão no Heliporto exibindo os seus trajes e coreografias.\\nMais info:
-  https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-fl
- or/\\nSite oficial: https://eventsmadeira.com/evento/atuacoes-grupos-da-fl
- or/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-flor/
-END:VEVENT
-BEGIN:VEVENT
-UID:11323-20270522@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270522
-DTEND;VALUE=DATE:20270523
-SUMMARY:Atuação dos Grupos da Flor
-LOCATION:Funchal
-DESCRIPTION:Os grupos participantes do cortejo alegórico da Festa da Flor 
- atuarão no Heliporto exibindo os seus trajes e coreografias.\\nMais info:
-  https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-fl
- or/\\nSite oficial: https://eventsmadeira.com/evento/atuacoes-grupos-da-fl
- or/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-flor/
-END:VEVENT
-BEGIN:VEVENT
-UID:16707-20270507@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Muro da Solidariedade
-LOCATION:Funchal
-DESCRIPTION:Na Placa Central da Avenida Arriaga ergue-se o "Muro da Solidar
- iedade"- uma cerimónia simbólica\, onde utentes de diversas instituiçõ
- es de solidariedade social se unem para construir um muro feito de flores.
- \\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/muro-da-soli
- dariedade/\\nSite oficial: https://eventsmadeira.com/evento/muro-da-solida
- riedade/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/muro-da-solidariedade/
-END:VEVENT
-BEGIN:VEVENT
-UID:11332-20270501@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
-SUMMARY:Muro da Esperança
-LOCATION:Funchal
-DESCRIPTION:Construção simbólica do Muro da Esperança. Na manhã de sá
- bado\, as crianças são convidadas a depositar uma flor no “Muro da Esp
- erança”\, num apelo simbólico à Paz.\\nMais info: https://visitmadeir
- a.com/pt/a-acontecer/eventos/muro-da-esperanca/\\nSite oficial: https://ev
- entsmadeira.com/evento/muro-da-esperanca/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/muro-da-esperanca/
-END:VEVENT
-BEGIN:VEVENT
-UID:9729-20270203@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270203
-DTEND;VALUE=DATE:20270215
-SUMMARY:Carnaval
-LOCATION:Funchal | Calheta | Câmara de Lobos | Machico | Ponta do Sol | Po
- rto Moniz | Ribeira Brava | Santa Cruz | Santana | São Vicente | Porto Sa
- nto
-DESCRIPTION:Carnaval Madeira - um dos momentos altos do calendário de fest
- ividades madeirenses. Uma onda de alegria que se espalha por todo o arquip
- élago.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/carna
- val/\\nSite oficial: https://visitmadeira.com/media/xxzmwfqk/calendario-an
- imacao-turistica_-srtac-drt_-pt_2025-2027.pdf
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval/
-END:VEVENT
-BEGIN:VEVENT
-UID:11317-20270528@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270528
-DTEND;VALUE=DATE:20270531
-SUMMARY:Madeira Classic Car Revival
-LOCATION:Funchal
-DESCRIPTION:Esta iniciativa\, que decorre na Praça do Povo\, entre os dias
-  28 e 30 de maio\, é organizada pelo Clube de Automóveis Clássicos da M
- adeira com o propósito de mostrar e premiar os melhores e mais elegantes 
- veículos antigos e clássicos da Região.\\nMais info: https://visitmadei
- ra.com/pt/a-acontecer/eventos/madeira-classic-car-revival/\\nSite oficial:
-  https://eventsmadeira.com/evento/madeira-classic-car-revival/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-classic-car-revival/
-END:VEVENT
-BEGIN:VEVENT
-UID:9840-20270205@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270207
-SUMMARY:Cortejo Alegórico Carnaval
-LOCATION:Funchal
-DESCRIPTION:A expressão máxima do Carnaval acontece nos dias 5 e 6 de fev
- ereiro\, à noite\, com a passagem do exuberante Cortejo Alegórico. Cerca
-  de 1 500 foliões extravagantemente trajados e mais de uma dezena de aleg
- res carros alegóricos\, integram este desfile.\\nMais info: https://visit
- madeira.com/pt/a-acontecer/eventos/cortejo-alegorico-carnaval/\\nSite ofic
- ial: https://eventsmadeira.com/evento/cortejo-alegorico-carnaval/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-alegorico-carnaval/
-END:VEVENT
-BEGIN:VEVENT
-UID:11334-20270515@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
-SUMMARY:Madeira Flower Collection
-LOCATION:Funchal
-DESCRIPTION:Este evento pretende promover o sector da moda regional\, envol
- vendo um número alargado de criadores sob a inspiração das flores\, con
- ferindo assim um toque de contemporaneidade e “glamour” a um dos maior
- es cartazes turísticos da Madeira\, num momento único de animação tur
- ística.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/made
- ira-flower-collection/\\nSite oficial: https://eventsmadeira.com/evento/ma
- deira-flower-collection/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-flower-collection/
-END:VEVENT
-BEGIN:VEVENT
-UID:14846-20270529@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270529
-DTEND;VALUE=DATE:20270530
-SUMMARY:Concurso Vestir à Época
-LOCATION:Funchal
-DESCRIPTION:O concurso “Vestir à Época” regressa nesta edição do Ma
- deira Classic Car Revival 2027\, com o objetivo de criar uma atmosfera his
- tórica durante o evento que decorrerá na Praça do Povo.\\nMais info: ht
- tps://visitmadeira.com/pt/a-acontecer/eventos/concurso-vestir-a-epoca/\\nS
- ite oficial: https://eventsmadeira.com/evento/concurso-vestir-a-epoca/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-vestir-a-epoca/
-END:VEVENT
-BEGIN:VEVENT
-UID:11330-20270429@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270531
-SUMMARY:Instalações florais
-LOCATION:Funchal
-DESCRIPTION:A diversidade da flora madeirense contribuiu\, em muito\, para 
- o estabelecimento destas manifestações artísticas\, que aliam a beleza 
- das flores aos elementos caraterísticos da tradição e cultura madeirens
- es.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/instalaco
- es-florais/\\nSite oficial: https://eventsmadeira.com/evento/instalacoes-f
- lorais/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/instalacoes-florais/
-END:VEVENT
-BEGIN:VEVENT
-UID:9757-20270604@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270628
-SUMMARY:Festival do Atlântico
-LOCATION:Funchal
-DESCRIPTION:Não perca o Festival do Atlântico! A Madeira enche-se de anim
- ação para celebrar o início do verão com música\, fogo de artifício 
- e espetáculos memoráveis.\\nMais info: https://visitmadeira.com/pt/a-aco
- ntecer/eventos/festival-do-atlantico/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-do-atlantico/
-END:VEVENT
-BEGIN:VEVENT
-UID:11894-20270605@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270605
-DTEND;VALUE=DATE:20270606
-SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
-LOCATION:Funchal
-DESCRIPTION:O Concurso Internacional de Fogo de Artifício da Madeira englo
- ba a realização de três espetáculos piromusicais nos primeiros três s
- ábados de junho e que podem ser apreciados ao longo de toda a baía do Fu
- nchal\, durante 20 minutos.\nNesta edição\, são concorrentes empresas d
- e pirotecnia de três países. O objetivo é alcançarem o “Troféu do A
- tlântico”\, prémio atribuído por um júri. Já o “Troféu Madeira T
- ão Tua” é atribuído pela votação do público.\\nMais info: https://
- visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-
- artificio-da-madeira/\\nSite oficial: https://eventsmadeira.com/evento/con
- curso-internacional-de-fogo-de-artificio-da-madeira/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-artificio-da-madeira/
-END:VEVENT
-BEGIN:VEVENT
-UID:11894-20270612@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270612
-DTEND;VALUE=DATE:20270613
-SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
-LOCATION:Funchal
-DESCRIPTION:O Concurso Internacional de Fogo de Artifício da Madeira englo
- ba a realização de três espetáculos piromusicais nos primeiros três s
- ábados de junho e que podem ser apreciados ao longo de toda a baía do Fu
- nchal\, durante 20 minutos.\nNesta edição\, são concorrentes empresas d
- e pirotecnia de três países. O objetivo é alcançarem o “Troféu do A
- tlântico”\, prémio atribuído por um júri. Já o “Troféu Madeira T
- ão Tua” é atribuído pela votação do público.\\nMais info: https://
- visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-
- artificio-da-madeira/\\nSite oficial: https://eventsmadeira.com/evento/con
- curso-internacional-de-fogo-de-artificio-da-madeira/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-artificio-da-madeira/
-END:VEVENT
-BEGIN:VEVENT
-UID:11894-20270619@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270619
-DTEND;VALUE=DATE:20270620
-SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
-LOCATION:Funchal
-DESCRIPTION:O Concurso Internacional de Fogo de Artifício da Madeira englo
- ba a realização de três espetáculos piromusicais nos primeiros três s
- ábados de junho e que podem ser apreciados ao longo de toda a baía do Fu
- nchal\, durante 20 minutos.\nNesta edição\, são concorrentes empresas d
- e pirotecnia de três países. O objetivo é alcançarem o “Troféu do A
- tlântico”\, prémio atribuído por um júri. Já o “Troféu Madeira T
- ão Tua” é atribuído pela votação do público.\\nMais info: https://
- visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-
- artificio-da-madeira/\\nSite oficial: https://eventsmadeira.com/evento/con
- curso-internacional-de-fogo-de-artificio-da-madeira/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fogo-de-artificio-da-madeira/
-END:VEVENT
-BEGIN:VEVENT
-UID:11883-20270604@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270607
-SUMMARY:Mercado Quinhentista
-LOCATION:Machico
-DESCRIPTION:O Mercado Quinhentista é um evento que recria o período hist
- órico da descoberta do arquipélago e que se realiza\, anualmente\, no La
- rgo da Praça\, bem no centro da cidade de Machico. Este animado mercado p
- retende recriar vivências coletivas do período quinhentista\, onde se po
- dem se observar vários produtos\, apresentações de artesanato\, espaço
-  de comes e bebes\, jogos e animação diversa e exposições variadas.\\n
- Mais info: https://visitmadeira.com/pt/a-acontecer/eventos/mercado-quinhen
- tista/\\nSite oficial: https://eventsmadeira.com/evento/mercado-quinhentis
- ta/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercado-quinhentista/
-END:VEVENT
-BEGIN:VEVENT
-UID:11893-20270605@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270605
-DTEND;VALUE=DATE:20270606
-SUMMARY:Espetáculos Piromusicais
-LOCATION:Funchal | Porto Santo
-DESCRIPTION:A música e o fogo de artifício conjugam-se de forma harmonios
- a\, assinalando o início e término do Festival do Atlântico. \nPor sua 
- vez\, o encerramento das festividades acontece com dois espetáculos: o pr
- imeiro terá lugar na ilha do Porto Santo\, junto ao cais da cidade de Vil
- a Baleira\, no dia 23 de junho\, e o segundo decorrerá no Funchal\, a 26 
- de junho.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/esp
- etaculos-piromusicais/\\nSite oficial: https://eventsmadeira.com/evento/es
- petaculos-piromusicais/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
-END:VEVENT
-BEGIN:VEVENT
-UID:11893-20270612@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270612
-DTEND;VALUE=DATE:20270613
-SUMMARY:Espetáculos Piromusicais
-LOCATION:Funchal | Porto Santo
-DESCRIPTION:A música e o fogo de artifício conjugam-se de forma harmonios
- a\, assinalando o início e término do Festival do Atlântico. \nPor sua 
- vez\, o encerramento das festividades acontece com dois espetáculos: o pr
- imeiro terá lugar na ilha do Porto Santo\, junto ao cais da cidade de Vil
- a Baleira\, no dia 23 de junho\, e o segundo decorrerá no Funchal\, a 26 
- de junho.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/esp
- etaculos-piromusicais/\\nSite oficial: https://eventsmadeira.com/evento/es
- petaculos-piromusicais/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
-END:VEVENT
-BEGIN:VEVENT
-UID:11893-20270619@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270619
-DTEND;VALUE=DATE:20270620
-SUMMARY:Espetáculos Piromusicais
-LOCATION:Funchal | Porto Santo
-DESCRIPTION:A música e o fogo de artifício conjugam-se de forma harmonios
- a\, assinalando o início e término do Festival do Atlântico. \nPor sua 
- vez\, o encerramento das festividades acontece com dois espetáculos: o pr
- imeiro terá lugar na ilha do Porto Santo\, junto ao cais da cidade de Vil
- a Baleira\, no dia 23 de junho\, e o segundo decorrerá no Funchal\, a 26 
- de junho.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/esp
- etaculos-piromusicais/\\nSite oficial: https://eventsmadeira.com/evento/es
- petaculos-piromusicais/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
-END:VEVENT
-BEGIN:VEVENT
-UID:11893-20270626@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270626
-DTEND;VALUE=DATE:20270627
-SUMMARY:Espetáculos Piromusicais
-LOCATION:Funchal | Porto Santo
-DESCRIPTION:A música e o fogo de artifício conjugam-se de forma harmonios
- a\, assinalando o início e término do Festival do Atlântico. \nPor sua 
- vez\, o encerramento das festividades acontece com dois espetáculos: o pr
- imeiro terá lugar na ilha do Porto Santo\, junto ao cais da cidade de Vil
- a Baleira\, no dia 23 de junho\, e o segundo decorrerá no Funchal\, a 26 
- de junho.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/esp
- etaculos-piromusicais/\\nSite oficial: https://eventsmadeira.com/evento/es
- petaculos-piromusicais/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
-END:VEVENT
-BEGIN:VEVENT
-UID:11895-20270604@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270628
-SUMMARY:Mercadinho Sunset de Verão
-LOCATION:Funchal
-DESCRIPTION:Os fins de semana são\, por esta altura\, mais animados e conv
- idativos a atividades ao ar livre. Justamente por isso\, durante o mês de
-  junho\, de quinta-feira a domingo\, poderá desfrutar de um animado sunse
- t no jardim localizado junto à Praça do Povo\, onde não vai faltar a m
- úsica\, o bom ambiente\, e ainda\, espaços gastronómicos com os tradici
- onais produtos madeirenses.\\nMais info: https://visitmadeira.com/pt/a-aco
- ntecer/eventos/sunsets-de-verao/\\nSite oficial: https://eventsmadeira.com
- /evento/mercadinho-sunset-de-verao/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/sunsets-de-verao/
-END:VEVENT
-BEGIN:VEVENT
-UID:16941-20270605@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270605
-DTEND;VALUE=DATE:20270627
-SUMMARY:Ópera no Pico
-LOCATION:Funchal
-DESCRIPTION:Descubra uma nova dimensão da cultura na deslumbrante Fortalez
- a do Pico com o ciclo “Ópera no Pico”. Prepare-se para quatro noites 
- inesquecíveis de música\, paixão e espetáculos pirotécnicos sob as es
- trelas durante o Festival Atlântico.\\nMais info: https://visitmadeira.co
- m/pt/a-acontecer/eventos/opera-no-pico/\\nSite oficial: https://eventsmade
- ira.com/evento/opera-no-pico/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/opera-no-pico/
-END:VEVENT
-BEGIN:VEVENT
-UID:20333-20270604@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270605
-SUMMARY:DOC. Atlântico
-LOCATION:Ponta do Sol | Piscinas Naturais do Porto Moniz | Santa Cruz | Fun
- chal
-DESCRIPTION:Iniciativa de cinema documental dedicada à valorização do pa
- trimónio natural\, científico e paisagístico da Região Autónoma da Ma
- deira.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/doc-at
- lantico/\\nSite oficial: https://eventsmadeira.com/evento/doc-atlantico/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
-END:VEVENT
-BEGIN:VEVENT
-UID:20333-20270611@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270611
-DTEND;VALUE=DATE:20270612
-SUMMARY:DOC. Atlântico
-LOCATION:Ponta do Sol | Piscinas Naturais do Porto Moniz | Santa Cruz | Fun
- chal
-DESCRIPTION:Iniciativa de cinema documental dedicada à valorização do pa
- trimónio natural\, científico e paisagístico da Região Autónoma da Ma
- deira.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/doc-at
- lantico/\\nSite oficial: https://eventsmadeira.com/evento/doc-atlantico/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
-END:VEVENT
-BEGIN:VEVENT
-UID:20333-20270618@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270618
-DTEND;VALUE=DATE:20270619
-SUMMARY:DOC. Atlântico
-LOCATION:Ponta do Sol | Piscinas Naturais do Porto Moniz | Santa Cruz | Fun
- chal
-DESCRIPTION:Iniciativa de cinema documental dedicada à valorização do pa
- trimónio natural\, científico e paisagístico da Região Autónoma da Ma
- deira.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/doc-at
- lantico/\\nSite oficial: https://eventsmadeira.com/evento/doc-atlantico/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
-END:VEVENT
-BEGIN:VEVENT
-UID:20333-20270625@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270625
-DTEND;VALUE=DATE:20270626
-SUMMARY:DOC. Atlântico
-LOCATION:Ponta do Sol | Piscinas Naturais do Porto Moniz | Santa Cruz | Fun
- chal
-DESCRIPTION:Iniciativa de cinema documental dedicada à valorização do pa
- trimónio natural\, científico e paisagístico da Região Autónoma da Ma
- deira.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/doc-at
- lantico/\\nSite oficial: https://eventsmadeira.com/evento/doc-atlantico/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
-END:VEVENT
-BEGIN:VEVENT
-UID:11911-20270607@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270607
-DTEND;VALUE=DATE:20270613
-SUMMARY:Semana Regional das Artes
-LOCATION:Funchal
-DESCRIPTION:Esta é uma semana composta por um conjunto de dinâmicas artí
- sticas que transformam a cidade do Funchal num espaço de criatividade\, a
- través de manifestações e performances de música\, a dança\, canto\, 
- movimento e cinema.\\nMais info: https://visitmadeira.com/pt/a-acontecer/e
- ventos/semana-regional-das-artes/\\nSite oficial: https://eventsmadeira.co
- m/evento/semana-regional-das-artes/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-regional-das-artes/
-END:VEVENT
-BEGIN:VEVENT
-UID:9812-20270424@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270426
-SUMMARY:MIUT - Madeira Island Ultra Trail
-LOCATION:Machico | Porto Moniz
-DESCRIPTION:Sendo a prova rainha do Trail Running na Madeira\, o MIUT tem c
- onseguido\, ano após ano\, juntar um conjunto de atletas da elite do ITRA
-  – International Trail-Running Association\, acompanhados por várias ce
- ntenas de outros atletas\, que a cada ano que passa\, tornam a lista de in
- scritos cada vez maior\, ultrapassando já os dois mil participantes.\nSen
- do a prova maior com 115km e 7100 d+\, o desafio de travessia da ilha de u
- ma ponta à outra é\, sem dúvida\, e descrito por muitos\, uma verdadeir
- a experiência de vida.\nA diversidade e o deslumbramento das paisagens qu
- e estes atletas vão encontrando ao longo do percurso\, os desafios de lon
- gas descidas e subidas é\, para a maioria\, o que torna esta aventura ain
- da mais rica.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos
- /miut-madeira-island-ultra-trail/\\nSite oficial: https://eventsmadeira.co
- m/evento/miut-madeira-island-ultra-trail/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/miut-madeira-island-ultra-trail/
-END:VEVENT
-BEGIN:VEVENT
-UID:20687-20260918@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260920
-SUMMARY:IX Torneio Colombo's Golf Trophy
-LOCATION:Porto Santo
-DESCRIPTION:Nos dias 18 e 19 de setembro de 2026\, o Porto Santo Golfe rece
- be a IX edição do Torneio "Colombo's Golf Trophy"\, integrado no program
- a oficial do Festival Colombo\, na ilha do Porto Santo.\\nMais info: https
- ://visitmadeira.com/pt/a-acontecer/eventos/ix-torneio-colombos-golf-trophy
- /\\nSite oficial: https://eventsmadeira.com/evento/ix-torneio-colombos-gol
- f-trophy/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/ix-torneio-colombos-golf-trophy/
-END:VEVENT
-BEGIN:VEVENT
-UID:9776-20260823@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260914
-SUMMARY:Festa do Vinho
-LOCATION:Funchal | Câmara de Lobos
-DESCRIPTION:Conheça a Festa do Vinho! Nunca é demais homenagear este prod
- uto regional\, conhecido pela sua qualidade de excelência um pouco por to
- do o mundo.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
- esta-do-vinho/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-vinho/
-END:VEVENT
-BEGIN:VEVENT
-UID:15205-20260819@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20261022
-SUMMARY:Concertos L
-LOCATION:Ponta do Sol
-DESCRIPTION:A Estalagem da Ponta do Sol\, em colaboração a empresa Urbani
- stas e o Conservatório de Música da Madeira\, promove mais uma edição 
- dos “Concertos L”. Esta é uma iniciativa cultural\, cuja projeção t
- em vindo a consolidar-se a nível nacional e internacional.\\nMais info: h
- ttps://visitmadeira.com/pt/a-acontecer/eventos/concertos-l/\\nSite oficial
- : https://eventsmadeira.com/evento/concertos-l/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-l/
-END:VEVENT
-BEGIN:VEVENT
-UID:20749-20260911@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260913
-SUMMARY:Madeira Wine Lounge no Posto de Turismo da Madeira em Lisboa
-LOCATION:Lisboa
-DESCRIPTION:Nos dias 11 e 12 de setembro\, o Madeira Wine Lounge regressa a
-  Lisboa. O evento inclui provas e harmonizações gastronómicas\, com vin
- hos tranquilos e licorosos\, acompanhadas por especialidades regionais com
- o queijo\, bolo do caco e peixe-espada\, numa celebração da tradição v
- ínica madeirense.\\nMais info: https://visitmadeira.com/pt/a-acontecer/ev
- entos/madeira-wine-lounge-no-posto-de-turismo-da-madeira-em-lisboa/\\nSite
-  oficial: https://www.instagram.com/visitmadeirainlisbon/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge-no-posto-de-turismo-da-madeira-em-lisboa/
-END:VEVENT
-BEGIN:VEVENT
-UID:9764-20270731@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270802
-SUMMARY:Clássicos na Magnólia
-LOCATION:Funchal
-DESCRIPTION:"Clássicos na Magnólia" é uma montra viva onde o foco são o
- s carros clássicos. Admire a sua beleza e conheça histórias fascinantes
-  que atravessam gerações.\\nMais info: https://visitmadeira.com/pt/a-aco
- ntecer/eventos/classicos-na-magnolia/\\nSite oficial: https://eventsmadeir
- a.com/evento/classicos-na-magnolia/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/classicos-na-magnolia/
-END:VEVENT
-BEGIN:VEVENT
-UID:12443-20270901@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270905
-SUMMARY:Festa das Vindimas (Blandy)
-LOCATION:Funchal
-DESCRIPTION:No contexto das celebrações da Festa do Vinho na Madeira\, a 
- empresa Blandy promove um conjunto de ações recreativas\, oferecendo aos
-  turistas e ao público geral a oportunidade de experienciar uma panóplia
-  de atividades\, tais como a pisa da uva\, uma visita às vinhas da famíl
- ia Blandy\, a degustação de algumas iguarias da doçaria regional\, uma 
- prova de vinhos\, entre outras.\\nMais info: https://visitmadeira.com/pt/a
- -acontecer/eventos/festa-das-vindimas-blandy/\\nSite oficial: https://even
- tsmadeira.com/evento/festa-das-vindimas-blandy/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-blandy/
-END:VEVENT
-BEGIN:VEVENT
 UID:14986-20261023@visitmadeira.com
-DTSTAMP:20260826T043409Z
+DTSTAMP:20260827T145614Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 SUMMARY:Festival Internacional de Bandolins da Madeira
 LOCATION:Funchal
-DESCRIPTION:A Associação de Bandolins da Madeira promove entre 23 e 25 de
-  outubro\, a 11ª. edição do Festival Internacional de Bandolins da Made
- ira\, no Teatro Municipal Baltazar Dias\, um encontro único do público c
- om as mais variadas linguagens que o bandolim internacionalmente apresenta
- .\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/festival-in
- ternacional-de-bandolins-da-madeira/\\nSite oficial: https://eventsmadeira
- .com/evento/10o-festival-internacional-de-bandolins-da-madeira/
+DESCRIPTION:A Associação de Bandolins da Madeira promove a 11.ª edição
+  do Festival Internacional de Bandolins da Madeira\, que decorrerá nos di
+ as 23\, 24 e 25 de outubro\, no Teatro Municipal Baltazar Dias\, e no dia 
+ 14 de novembro\, no Museu Henrique e Francisco Franco.\\nMais info: https:
+ //visitmadeira.com/pt/a-acontecer/eventos/festival-internacional-de-bandol
+ ins-da-madeira/\\nSite oficial: https://eventsmadeira.com/evento/10o-festi
+ val-internacional-de-bandolins-da-madeira/
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-internacional-de-bandolins-da-madeira/
 END:VEVENT
 BEGIN:VEVENT
-UID:9743-20270429@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270531
-SUMMARY:Festa da Flor
+UID:14986-20261111@visitmadeira.com
+DTSTAMP:20260827T145614Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Festival Internacional de Bandolins da Madeira
 LOCATION:Funchal
-DESCRIPTION:A Festa da Flor ocorre com a chegada da primavera\, onde os jar
- dins madeirenses se tornam ainda mais coloridos e exuberantes. Celebra a N
- atureza.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/fest
- a-da-flor/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/
-END:VEVENT
-BEGIN:VEVENT
-UID:11998-20260912@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Festa das Vindimas do Estreito
-LOCATION:Câmara de Lobos
-DESCRIPTION:A Festa das Vindimas reúne todos os anos\, na primeira quinzen
- a de setembro\, milhares de forasteiros na vila do Estreito. Cartaz fundam
- ental de promoção do destino Madeira\, esta festa recria o trabalho árd
- uo\, mas alegre das vindimas\, fase essencial na preparação do caminho p
- ela leva à população do produto mais famoso da madeira\, seu vinho.\\nM
- ais info: https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindim
- as-do-estreito/\\nSite oficial: https://eventsmadeira.com/evento/festa-das
- -vindimas-do-estreito/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-do-estreito/
-END:VEVENT
-BEGIN:VEVENT
-UID:11995-20261022@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261025
-SUMMARY:Rally Madeira Legend
-LOCATION:Funchal | Ribeira Brava | Santa Cruz
-DESCRIPTION:Organizado pelo Club Sports da Madeira\, o Rally Madeira Legend
-  irá para a estrada de 22 a 24 de outubro.\nEsta prova automobilística d
- estina-se a viaturas Históricas\, Spirit e Legend Show e surge como uma n
- ova variante da “Volta à Ilha da Madeira – Rally Histórico”\, real
- izada para comemorar os “60 anos da Volta à Ilha da Madeira”.\\nMais 
- info: https://visitmadeira.com/pt/a-acontecer/eventos/rally-madeira-legend
- /\\nSite oficial: https://eventsmadeira.com/evento/rally-madeira-legend-20
- 24/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/rally-madeira-legend/
-END:VEVENT
-BEGIN:VEVENT
-UID:17055-20270709@visitmadeira.com
-DTSTAMP:20260826T043409Z
-DTSTART;VALUE=DATE:20270709
-DTEND;VALUE=DATE:20270719
-SUMMARY:Festival Gastronómico da Madeira – SAL
-LOCATION:Funchal
-DESCRIPTION:Entre os dias 9 e 18 de julho\, a Madeira acolhe o Festival Gas
- tronómico da Madeira – SAL\, um evento gastronómico que celebra a cult
- ura e o património gastronómico da Região\, combinando tradição e ino
- vação.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/fest
- ival-gastronomico-da-madeira-sal/\\nSite oficial: https://eventsmadeira.co
- m/evento/festival-gastronomico-da-madeira-sal-2/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-gastronomico-da-madeira-sal/
+DESCRIPTION:A Associação de Bandolins da Madeira promove a 11.ª edição
+  do Festival Internacional de Bandolins da Madeira\, que decorrerá nos di
+ as 23\, 24 e 25 de outubro\, no Teatro Municipal Baltazar Dias\, e no dia 
+ 14 de novembro\, no Museu Henrique e Francisco Franco.\\nMais info: https:
+ //visitmadeira.com/pt/a-acontecer/eventos/festival-internacional-de-bandol
+ ins-da-madeira/\\nSite oficial: https://eventsmadeira.com/evento/10o-festi
+ val-internacional-de-bandolins-da-madeira/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-internacional-de-bandolins-da-madeira/
 END:VEVENT
 END:VCALENDAR
