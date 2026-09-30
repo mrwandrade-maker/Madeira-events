@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Madeira Events 2026-2027
 BEGIN:VEVENT
 UID:9817-20261003@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:TransMadeira
@@ -24,7 +24,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/transmadeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:15543-20261009@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
 SUMMARY:Feira do Mar e do Pescador
@@ -42,7 +42,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/feira-do-mar-e-do-pescador/
 END:VEVENT
 BEGIN:VEVENT
 UID:12758-20261031@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Festa da Castanha
@@ -59,7 +59,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-castanha/
 END:VEVENT
 BEGIN:VEVENT
 UID:12441-20261212@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:Mostra de Iguarias Tradicionais de Natal
@@ -72,23 +72,8 @@ DESCRIPTION:A Casa do Povo de Boaventura organiza a Mostra das Iguarias Tra
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-de-iguarias-tradicionais-de-natal/
 END:VEVENT
 BEGIN:VEVENT
-UID:15507-20261002@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-SUMMARY:Festa da Maçã
-LOCATION:Camacha
-DESCRIPTION:Este evento popular pretende valorizar a maçã e os seus deriv
- ados. O programa inclui animação\, culinária\, folclore\, provas de deg
- ustação e workshops.\nÉ\, também\, possível acompanhar\, ao vivo\, a 
- tradicional pisa da maçã.\\nMais info: https://visitmadeira.com/pt/a-aco
- ntecer/eventos/festa-da-maca/\\nSite oficial: https://eventsmadeira.com/ev
- ento/xxxvii-festa-da-maca/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-maca/
-END:VEVENT
-BEGIN:VEVENT
 UID:12881-20261204@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Aldeia de Natal
@@ -103,7 +88,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-de-natal/
 END:VEVENT
 BEGIN:VEVENT
 UID:12881-20261206@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Aldeia de Natal
@@ -118,7 +103,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-de-natal/
 END:VEVENT
 BEGIN:VEVENT
 UID:15205-20260819@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20261022
 SUMMARY:Concertos L
@@ -133,7 +118,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-l/
 END:VEVENT
 BEGIN:VEVENT
 UID:12788-20261017@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Ecotrail Funchal
@@ -151,7 +136,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/ecotrail-funchal/
 END:VEVENT
 BEGIN:VEVENT
 UID:9808-20270131@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Maratona do Funchal
@@ -169,7 +154,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/maratona-do-funchal/
 END:VEVENT
 BEGIN:VEVENT
 UID:11319-20270502@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Grande Cortejo Alegórico
@@ -184,7 +169,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/grande-cortejo-alegorico-fes
 END:VEVENT
 BEGIN:VEVENT
 UID:11319-20270516@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:Grande Cortejo Alegórico
@@ -199,7 +184,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/grande-cortejo-alegorico-fes
 END:VEVENT
 BEGIN:VEVENT
 UID:11328-20270513@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270517
 SUMMARY:Concertos da Flor
@@ -214,7 +199,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:11325-20270509@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Madeira Flower Classic Auto Parade
@@ -231,7 +216,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-flower-classic-auto-
 END:VEVENT
 BEGIN:VEVENT
 UID:11323-20270508@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Atuação dos Grupos da Flor
@@ -245,7 +230,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:11323-20270522@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 SUMMARY:Atuação dos Grupos da Flor
@@ -259,7 +244,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/atuacoes-dos-grupos-da-flor/
 END:VEVENT
 BEGIN:VEVENT
 UID:16707-20270507@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Muro da Solidariedade
@@ -274,7 +259,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/muro-da-solidariedade/
 END:VEVENT
 BEGIN:VEVENT
 UID:11332-20270501@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Muro da Esperança
@@ -288,7 +273,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/muro-da-esperanca/
 END:VEVENT
 BEGIN:VEVENT
 UID:9729-20270203@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270215
 SUMMARY:Carnaval
@@ -304,7 +289,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval/
 END:VEVENT
 BEGIN:VEVENT
 UID:11317-20270528@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270531
 SUMMARY:Madeira Classic Car Revival
@@ -319,7 +304,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-classic-car-revival/
 END:VEVENT
 BEGIN:VEVENT
 UID:11334-20270515@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Madeira Flower Collection
@@ -335,7 +320,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-flower-collection/
 END:VEVENT
 BEGIN:VEVENT
 UID:14846-20270529@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:Concurso Vestir à Época
@@ -349,7 +334,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-vestir-a-epoca/
 END:VEVENT
 BEGIN:VEVENT
 UID:11330-20270429@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270531
 SUMMARY:Instalações florais
@@ -364,7 +349,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/instalacoes-florais/
 END:VEVENT
 BEGIN:VEVENT
 UID:15653-20270123@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270125
 SUMMARY:Mostra da Poncha e do Mel da Serra de Água
@@ -380,7 +365,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mostra-da-poncha-e-do-mel-da
 END:VEVENT
 BEGIN:VEVENT
 UID:9838-20270205@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Carnaval Solidário
@@ -396,7 +381,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval-solidario/
 END:VEVENT
 BEGIN:VEVENT
 UID:13153-20270205@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Carnaval das Crianças
@@ -412,7 +397,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/carnaval-das-criancas/
 END:VEVENT
 BEGIN:VEVENT
 UID:9843-20270209@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:Cortejo Trapalhão
@@ -426,7 +411,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-trapalhao/
 END:VEVENT
 BEGIN:VEVENT
 UID:9831-20270128@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Festa dos Compadres
@@ -441,7 +426,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
 END:VEVENT
 BEGIN:VEVENT
 UID:9831-20270130@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:Festa dos Compadres
@@ -456,7 +441,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
 END:VEVENT
 BEGIN:VEVENT
 UID:9831-20270204@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:Festa dos Compadres
@@ -471,7 +456,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-dos-compadres/
 END:VEVENT
 BEGIN:VEVENT
 UID:11322-20261108@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261116
 SUMMARY:Mountain Bike Madeira Meeting
@@ -487,7 +472,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mountain-bike-madeira-meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:11321-20261018@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261024
 SUMMARY:Madeira Canyoning Meeting
@@ -502,7 +487,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-canyoning-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:11937-20261010@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:100 Milhas- Historic Rally
@@ -516,7 +501,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/100-milhas-historic-rally/
 END:VEVENT
 BEGIN:VEVENT
 UID:12443-20270901@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270905
 SUMMARY:Festa das Vindimas (Blandy)
@@ -533,7 +518,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-blandy/
 END:VEVENT
 BEGIN:VEVENT
 UID:11995-20261022@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
 SUMMARY:Rally Madeira Legend
@@ -550,7 +535,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/rally-madeira-legend/
 END:VEVENT
 BEGIN:VEVENT
 UID:17055-20270709@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270719
 SUMMARY:Festival Gastronómico da Madeira – SAL
@@ -565,7 +550,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-gastronomico-da-mad
 END:VEVENT
 BEGIN:VEVENT
 UID:9757-20270604@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270628
 SUMMARY:Festival do Atlântico
@@ -578,7 +563,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-do-atlantico/
 END:VEVENT
 BEGIN:VEVENT
 UID:11894-20270605@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
@@ -597,7 +582,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fo
 END:VEVENT
 BEGIN:VEVENT
 UID:11894-20270612@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
@@ -616,7 +601,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fo
 END:VEVENT
 BEGIN:VEVENT
 UID:11894-20270619@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
 SUMMARY:Concurso Internacional de Fogo de Artifício da Madeira
@@ -635,7 +620,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concurso-internacional-de-fo
 END:VEVENT
 BEGIN:VEVENT
 UID:11883-20270604@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Mercado Quinhentista
@@ -653,7 +638,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercado-quinhentista/
 END:VEVENT
 BEGIN:VEVENT
 UID:11893-20270605@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:Espetáculos Piromusicais
@@ -670,7 +655,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11893-20270612@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 SUMMARY:Espetáculos Piromusicais
@@ -687,7 +672,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11893-20270619@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
 SUMMARY:Espetáculos Piromusicais
@@ -704,7 +689,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11893-20270626@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 SUMMARY:Espetáculos Piromusicais
@@ -721,7 +706,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculos-piromusicais/
 END:VEVENT
 BEGIN:VEVENT
 UID:11895-20270604@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270628
 SUMMARY:Mercadinho Sunset de Verão
@@ -738,7 +723,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/sunsets-de-verao/
 END:VEVENT
 BEGIN:VEVENT
 UID:16941-20270605@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270627
 SUMMARY:Ópera no Pico
@@ -753,7 +738,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/opera-no-pico/
 END:VEVENT
 BEGIN:VEVENT
 UID:20333-20270604@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:DOC. Atlântico
@@ -767,7 +752,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
 END:VEVENT
 BEGIN:VEVENT
 UID:20333-20270611@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 SUMMARY:DOC. Atlântico
@@ -781,7 +766,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
 END:VEVENT
 BEGIN:VEVENT
 UID:20333-20270618@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270619
 SUMMARY:DOC. Atlântico
@@ -795,7 +780,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
 END:VEVENT
 BEGIN:VEVENT
 UID:20333-20270625@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
 SUMMARY:DOC. Atlântico
@@ -809,7 +794,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/doc-atlantico/
 END:VEVENT
 BEGIN:VEVENT
 UID:11911-20270607@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270613
 SUMMARY:Semana Regional das Artes
@@ -824,7 +809,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-regional-das-artes/
 END:VEVENT
 BEGIN:VEVENT
 UID:9812-20270424@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:MIUT - Madeira Island Ultra Trail
@@ -846,7 +831,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/miut-madeira-island-ultra-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:9790-20261006@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261012
 SUMMARY:Festival da Natureza
@@ -859,7 +844,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-da-natureza/
 END:VEVENT
 BEGIN:VEVENT
 UID:12914-20270105@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Cantar dos Reis
@@ -878,7 +863,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/cantar-dos-reis/
 END:VEVENT
 BEGIN:VEVENT
 UID:9805-20261223@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Noite do Mercado
@@ -901,7 +886,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/noite-do-mercado/
 END:VEVENT
 BEGIN:VEVENT
 UID:19752-20261201@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270111
 SUMMARY:Mercadinho de Natal
@@ -918,7 +903,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercadinho-de-natal/
 END:VEVENT
 BEGIN:VEVENT
 UID:9821-20261231@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270102
 SUMMARY:Espetáculo de Fim de Ano
@@ -934,7 +919,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/espetaculo-de-fim-de-ano/
 END:VEVENT
 BEGIN:VEVENT
 UID:19760-20261201@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270111
 SUMMARY:Aldeia Etnográfica
@@ -948,7 +933,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/aldeia-etnografica/
 END:VEVENT
 BEGIN:VEVENT
 UID:11999-20261215@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261224
 SUMMARY:Missas do Parto
@@ -966,8 +951,364 @@ DESCRIPTION:A partir da primeira quinzena de dezembro até à véspera de N
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/missas-do-parto/
 END:VEVENT
 BEGIN:VEVENT
+UID:9764-20270717@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270719
+SUMMARY:Clássicos na Magnólia
+LOCATION:Funchal
+DESCRIPTION:"Clássicos na Magnólia" é uma montra viva onde o foco são o
+ s carros clássicos. Admire a sua beleza e conheça histórias fascinantes
+  que atravessam gerações.\\nMais info: https://visitmadeira.com/pt/a-aco
+ ntecer/eventos/classicos-na-magnolia/\\nSite oficial: https://eventsmadeir
+ a.com/evento/classicos-na-magnolia/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/classicos-na-magnolia/
+END:VEVENT
+BEGIN:VEVENT
+UID:9743-20270429@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270531
+SUMMARY:Festa da Flor
+LOCATION:Funchal
+DESCRIPTION:A Festa da Flor ocorre com a chegada da primavera\, onde os jar
+ dins madeirenses se tornam ainda mais coloridos e exuberantes. Celebra a N
+ atureza.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/fest
+ a-da-flor/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/
+END:VEVENT
+BEGIN:VEVENT
+UID:9795-20261201@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270111
+SUMMARY:Natal e Passagem de Ano
+LOCATION:Funchal | Porto Moniz | Santana | Porto Santo
+DESCRIPTION:Natal e Passagem de Ano na Madeira? O arquipélago é totalment
+ e envolvido pela magia natalícia\, culminando com o grandioso fogo de art
+ ifício de fim de ano.\\nMais info: https://visitmadeira.com/pt/a-acontece
+ r/eventos/festas-de-natal-e-fim-de-ano/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festas-de-natal-e-fim-de-ano/
+END:VEVENT
+BEGIN:VEVENT
+UID:12922-20261202@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20270109
+SUMMARY:Oficinas de Natal
+LOCATION:Funchal
+DESCRIPTION:As oficinas de Natal proporcionam a confeção de produtos e a 
+ sua partilha\, divulgando as tradições madeirenses mais genuínas desta 
+ época. Nos dias e horários designados\, junto ao palco da Avenida Arriag
+ a\, poderá aprender\, gratuitamente\, a produzir várias iguarias típica
+ s como Poncha e Bolo do Caco\, entre outras receitas características da 
+ época\, Bonecas de Massa\, decoração de mesas de Natal\, e ainda vário
+ s outros elementos tradicionais madeirenses.\\nMais info: https://visitmad
+ eira.com/pt/a-acontecer/eventos/oficinas-de-natal/\\nSite oficial: https:/
+ /eventsmadeira.com/evento/oficinas-de-natal/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/oficinas-de-natal/
+END:VEVENT
+BEGIN:VEVENT
+UID:16705-20270429@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270531
+SUMMARY:Mercadinho das Flores e dos Produtos Regionais
+LOCATION:Funchal
+DESCRIPTION:Descubra o autêntico sabor da Madeira no nosso Mercadinho das 
+ Flores e Produtos Regionais durante a Festa da Flor 2027. Entre flores exu
+ berantes\, delicie-se com a doçaria regional\, o bolo do caco\, a sidra\,
+  a cerveja artesanal e a poncha com sabores exóticos.\\nMais info: https:
+ //visitmadeira.com/pt/a-acontecer/eventos/mercadinho-das-flores-e-dos-prod
+ utos-regionais/\\nSite oficial: https://eventsmadeira.com/evento/mercado-d
+ as-flores-e-sabores-regionais/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercadinho-das-flores-e-dos-produtos-regionais/
+END:VEVENT
+BEGIN:VEVENT
+UID:9776-20270822@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270913
+SUMMARY:Festa do Vinho
+LOCATION:Funchal | Câmara de Lobos
+DESCRIPTION:Conheça a Festa do Vinho! Nunca é demais homenagear este prod
+ uto regional\, conhecido pela sua qualidade de excelência um pouco por to
+ do o mundo.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
+ esta-do-vinho/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-vinho/
+END:VEVENT
+BEGIN:VEVENT
+UID:11993-20270904@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270906
+SUMMARY:Concertos das Vinhas ao Lagar
+DESCRIPTION:Conjunto de concertos musicais a decorrer em diferentes locais 
+ da região\, numa envolvência vinícola\, em ambiente de sunset\, a reali
+ zar depois do pico do calor\, quando os aromas se intensificam. Inclui atu
+ ações musicais ao vivo e degustação de vinhos fortificados e tranquilo
+ s\, produzidos no local.\\nMais info: https://visitmadeira.com/pt/a-aconte
+ cer/eventos/concertos-das-vinhas-ao-lagar/\\nSite oficial: https://eventsm
+ adeira.com/evento/concertos-da-vinha-ao-lagar/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-das-vinhas-ao-lagar/
+END:VEVENT
+BEGIN:VEVENT
+UID:11993-20270911@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270913
+SUMMARY:Concertos das Vinhas ao Lagar
+DESCRIPTION:Conjunto de concertos musicais a decorrer em diferentes locais 
+ da região\, numa envolvência vinícola\, em ambiente de sunset\, a reali
+ zar depois do pico do calor\, quando os aromas se intensificam. Inclui atu
+ ações musicais ao vivo e degustação de vinhos fortificados e tranquilo
+ s\, produzidos no local.\\nMais info: https://visitmadeira.com/pt/a-aconte
+ cer/eventos/concertos-das-vinhas-ao-lagar/\\nSite oficial: https://eventsm
+ adeira.com/evento/concertos-da-vinha-ao-lagar/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-das-vinhas-ao-lagar/
+END:VEVENT
+BEGIN:VEVENT
+UID:9840-20270205@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270207
+SUMMARY:Cortejo Alegórico Carnaval
+LOCATION:Funchal
+DESCRIPTION:Nos dias 5 e 6 de fevereiro\, as ruas da baixa funchalense volt
+ am a encher-se de música\, cor e animação\, com a realização\, pela p
+ rimeira vez\, de dois desfiles alegóricos que\, harmoniosamente\, conjuga
+ m exuberantes carros alegóricos com trajes repletos de criatividade e fan
+ tasia.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/cortej
+ o-alegorico-carnaval/\\nSite oficial: https://eventsmadeira.com/evento/cor
+ tejo-alegorico-carnaval/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-alegorico-carnaval/
+END:VEVENT
+BEGIN:VEVENT
+UID:11977-20270822@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270827
+SUMMARY:Semana Europeia de Folclore
+LOCATION:Funchal
+DESCRIPTION:É um festival de folclore organizado pelo Grupo de Folclore e 
+ Etnográfico da Boa Nova\, que tem por objetivo promover um convívio inte
+ rcultural e dar a conhecer realidades etnográficas. Conta com a participa
+ ção de grupos nacionais e estrangeiros.\\nMais info: https://visitmadeir
+ a.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/\\nSite oficial: 
+ https://eventsmadeira.com/evento/xvii-semana-europeia-de-folclore/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/
+END:VEVENT
+BEGIN:VEVENT
+UID:16594-20261002@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Eco Rally Madeira
+LOCATION:Funchal | Calheta | Machico
+DESCRIPTION:O Eco Rally Madeira é uma prova desportiva exclusiva para auto
+ móveis 100% elétricos\, integrada no Campeonato de Portugal de Novas Ene
+ rgias\, no ECO Challenge Ibérico e na FIA ECO Cup (Campeonato do Mundo).\
+ \nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/eco-rally-mad
+ eira/\\nSite oficial: https://eventsmadeira.com/evento/eco-rally-madeira/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/eco-rally-madeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:16594-20261004@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Eco Rally Madeira
+LOCATION:Funchal | Calheta | Machico
+DESCRIPTION:O Eco Rally Madeira é uma prova desportiva exclusiva para auto
+ móveis 100% elétricos\, integrada no Campeonato de Portugal de Novas Ene
+ rgias\, no ECO Challenge Ibérico e na FIA ECO Cup (Campeonato do Mundo).\
+ \nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/eco-rally-mad
+ eira/\\nSite oficial: https://eventsmadeira.com/evento/eco-rally-madeira/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/eco-rally-madeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:11979-20270826@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270913
+SUMMARY:Madeira Wine Lounge
+LOCATION:Funchal
+DESCRIPTION:O Madeira Wine Lounge\, na Praça do Povo\, é um lugar privile
+ giado para os visitantes desfrutarem de provas de vinho e gastronomia\, ao
+  som de grupos musicais regionais de géneros diversos.\\nMais info: https
+ ://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/\\nSite ofi
+ cial: https://eventsmadeira.com/evento/madeira-wine-lounge/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/
+END:VEVENT
+BEGIN:VEVENT
+UID:11998-20270911@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Festa das Vindimas do Estreito
+LOCATION:Câmara de Lobos
+DESCRIPTION:A Festa das Vindimas reúne todos os anos\, na primeira quinzen
+ a de setembro\, milhares de forasteiros na vila do Estreito. Cartaz fundam
+ ental de promoção do destino Madeira\, esta festa recria o trabalho árd
+ uo\, mas alegre das vindimas\, fase essencial na preparação do caminho p
+ ela leva à população do produto mais famoso da madeira\, seu vinho.\\nM
+ ais info: https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindim
+ as-do-estreito/\\nSite oficial: https://eventsmadeira.com/evento/festa-das
+ -vindimas-do-estreito/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-do-estreito/
+END:VEVENT
+BEGIN:VEVENT
+UID:20687-20270924@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270926
+SUMMARY:X Torneio Colombo's Golf Trophy
+LOCATION:Porto Santo
+DESCRIPTION:Nos dias 24 e 25 de setembro\, o Porto Santo Golfe recebe a X e
+ dição do Torneio "Colombo's Golf Trophy"\, integrado no programa oficial
+  do Festival Colombo\, na ilha do Porto Santo.\\nMais info: https://visitm
+ adeira.com/pt/a-acontecer/eventos/x-torneio-colombos-golf-trophy/\\nSite o
+ ficial: https://eventsmadeira.com/evento/ix-torneio-colombos-golf-trophy/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/x-torneio-colombos-golf-trophy/
+END:VEVENT
+BEGIN:VEVENT
+UID:9784-20270923@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270926
+SUMMARY:Festival Colombo
+LOCATION:Porto Santo
+DESCRIPTION:Festival Colombo - Uma oportunidade única de recordar e experi
+ enciar a época dos Descobrimentos e a passagem de Colombo pela ilha do Po
+ rto Santo.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/fe
+ stival-colombo/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-colombo/
+END:VEVENT
+BEGIN:VEVENT
+UID:21276-20261113@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+SUMMARY:Festa da Castanha no Posto de Turismo da Madeira em Lisboa
+LOCATION:Lisboa
+DESCRIPTION:Nos dias 13 e 14 de novembro\, Lisboa celebra a Festa da Castan
+ ha e da Ginja do Curral das Freiras\, com castanhas assadas no local\, lic
+ or de ginja\, poncha e doçaria regional.\\nMais info: https://visitmadeir
+ a.com/pt/a-acontecer/eventos/festa-da-castanha-no-posto-de-turismo-da-made
+ ira-em-lisboa/\\nSite oficial: https://www.instagram.com/visitmadeirainlis
+ bon/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-castanha-no-posto-de-turismo-da-madeira-em-lisboa/
+END:VEVENT
+BEGIN:VEVENT
+UID:14339-20261003@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Quinteto de Sopros “Solistas” | OCM
+LOCATION:Funchal
+DESCRIPTION:O Quinteto de Sopros “Solistas” da Orquestra Clássica da M
+ adeira (OCM) sobe ao palco da emblemática Assembleia Legislativa da Madei
+ ra\, no dia 3 de outubro\, às 18h00\, para um concerto especial de músic
+ a de câmara.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos
+ /quinteto-de-sopros-solistas-ocm/\\nSite oficial: https://www.ocmadeira.pt
+ /concertos/proximos-eventos/musica-camara/271-quinteto-de-sopros-solistas-
+ ocm?format=html
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/quinteto-de-sopros-solistas-ocm/
+END:VEVENT
+BEGIN:VEVENT
+UID:12510-20270927@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:Dia Mundial do Turismo
+LOCATION:Funchal
+DESCRIPTION:A Madeira\, como destino turístico de excelência\, não poder
+ ia deixar de se associar às comemorações do Dia Mundial do Turismo\, a 
+ decorrer no dia 27 de setembro.\\nMais info: https://visitmadeira.com/pt/a
+ -acontecer/eventos/dia-mundial-do-turismo/\\nSite oficial: https://eventsm
+ adeira.com/evento/dia-mundial-do-turismo/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/dia-mundial-do-turismo/
+END:VEVENT
+BEGIN:VEVENT
+UID:15507-20261001@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:Festa da Maçã
+LOCATION:Camacha
+DESCRIPTION:Este evento popular pretende valorizar a maçã e os seus deriv
+ ados. O programa inclui animação\, culinária\, folclore\, provas de deg
+ ustação e workshops.\nÉ\, também\, possível acompanhar\, ao vivo\, a 
+ tradicional pisa da maçã.\\nMais info: https://visitmadeira.com/pt/a-aco
+ ntecer/eventos/festa-da-maca/\\nSite oficial: https://eventsmadeira.com/ev
+ ento/xxxvii-festa-da-maca/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-maca/
+END:VEVENT
+BEGIN:VEVENT
+UID:16210-20261006@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Quinteto de Sopros "Atlântida"| OCM
+LOCATION:Funchal
+DESCRIPTION:O Quinteto de Sopros “Atlântida” da Orquestra Clássica da
+  Madeira (OCM) sobe ao ‘palco’ do emblemático Reid´s Palace Belmond 
+ Hotel\, no dia 6 de outubro\, para um espetáculo de música de câmara\, 
+ com início às 21:30 horas.\\nMais info: https://visitmadeira.com/pt/a-ac
+ ontecer/eventos/quinteto-de-sopros-atlantida-ocm/\\nSite oficial: https://
+ www.ocmadeira.pt/concertos/proximos-eventos/musica-camara/274-quinteto-de-
+ sopros-atlantida.html
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/quinteto-de-sopros-atlantida-ocm/
+END:VEVENT
+BEGIN:VEVENT
+UID:21278-20261017@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:OPERAzione TANGO | OCM
+LOCATION:Funchal
+DESCRIPTION:A Orquestra Clássica da Madeira apresenta\, no dia 17 de outub
+ ro\, pelas 18h\, no Centro de Congressos da Madeira\, um concerto muito es
+ pecial dedicado ao universo do Tango e à música de inspiração lírica\
+ , sob a direção do maestro Martin André.\\nMais info: https://visitmade
+ ira.com/pt/a-acontecer/eventos/operazione-tango-ocm/\\nSite oficial: https
+ ://www.ocmadeira.pt/concertos/proximos-eventos/orquestra-cla-ssica-da-made
+ ira/279-operazione-tango.html
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/operazione-tango-ocm/
+END:VEVENT
+BEGIN:VEVENT
+UID:19868-20261010@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Concerto de Música de Câmara Legno Duo | OCM
+LOCATION:Funchal
+DESCRIPTION:No dia 10 de outubro\, às 18h00\, a Orquestra Clássica da Mad
+ eira convida-o para uma experiência musical excecional na histórica Cape
+ la da Princesa Dona Amélia.\\nMais info: https://visitmadeira.com/pt/a-ac
+ ontecer/eventos/concerto-de-musica-de-camara-legno-duo-ocm/\\nSite oficial
+ : https://www.ocmadeira.pt/concertos/proximos-eventos/musica-camara/275-le
+ gno-duo.html
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concerto-de-musica-de-camara-legno-duo-ocm/
+END:VEVENT
+BEGIN:VEVENT
+UID:21277-20261021@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Concerto de Música de Câmara Legno Duo | OCM
+LOCATION:Funchal
+DESCRIPTION:No dia 21 de outubro\, às 21h00\, a Orquestra Clássica da Mad
+ eira convida-o para uma experiência musical excecional no emblemático Ho
+ tel Royal Savoy.\\nMais info: https://visitmadeira.com/pt/a-acontecer/even
+ tos/concerto-de-musica-de-camara-legno-duo-ocm-1/\\nSite oficial: https://
+ www.ocmadeira.pt/concertos/proximos-eventos/musica-camara/276-legno-duo.ht
+ ml
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concerto-de-musica-de-camara-legno-duo-ocm-1/
+END:VEVENT
+BEGIN:VEVENT
 UID:11649-20261007@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Concertos Semanais da Orquestra de Bandolins
@@ -986,7 +1327,7 @@ URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-semanais-da-orques
 END:VEVENT
 BEGIN:VEVENT
 UID:11649-20261014@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Concertos Semanais da Orquestra de Bandolins
@@ -1004,8 +1345,46 @@ DESCRIPTION:Reconhecida como a Orquestra de Bandolins mais antiga e mais jo
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-semanais-da-orquestra-de-bandolins/
 END:VEVENT
 BEGIN:VEVENT
+UID:11649-20261021@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Concertos Semanais da Orquestra de Bandolins
+LOCATION:Funchal
+DESCRIPTION:Reconhecida como a Orquestra de Bandolins mais antiga e mais jo
+ vem da Europa\, uma distinção de relevância numa região de excelência
+  no seio da comunidade europeia\, a Orquestra de Bandolins da Madeira® a
+ presenta-se na Temporada Artística 2026 com uma proposta artística únic
+ a e diversificada\, contemplando programas adaptados ao bandolim dos grand
+ es clássicos da música mundial\, primando pela qualidade que nos é reco
+ nhecida na preservação e divulgação da história do bandolim na Madei
+ ra.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/concertos
+ -semanais-da-orquestra-de-bandolins/\\nSite oficial: https://eventsmadeira
+ .com/evento/concertos-semanais-da-orquestra-de-bandolins/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-semanais-da-orquestra-de-bandolins/
+END:VEVENT
+BEGIN:VEVENT
+UID:11649-20261028@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Concertos Semanais da Orquestra de Bandolins
+LOCATION:Funchal
+DESCRIPTION:Reconhecida como a Orquestra de Bandolins mais antiga e mais jo
+ vem da Europa\, uma distinção de relevância numa região de excelência
+  no seio da comunidade europeia\, a Orquestra de Bandolins da Madeira® a
+ presenta-se na Temporada Artística 2026 com uma proposta artística únic
+ a e diversificada\, contemplando programas adaptados ao bandolim dos grand
+ es clássicos da música mundial\, primando pela qualidade que nos é reco
+ nhecida na preservação e divulgação da história do bandolim na Madei
+ ra.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/concertos
+ -semanais-da-orquestra-de-bandolins/\\nSite oficial: https://eventsmadeira
+ .com/evento/concertos-semanais-da-orquestra-de-bandolins/
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-semanais-da-orquestra-de-bandolins/
+END:VEVENT
+BEGIN:VEVENT
 UID:14986-20261023@visitmadeira.com
-DTSTAMP:20260929T102056Z
+DTSTAMP:20260930T101403Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 SUMMARY:Festival Internacional de Bandolins da Madeira
@@ -1020,10 +1399,10 @@ DESCRIPTION:A Associação de Bandolins da Madeira promove a 11.ª edição
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-internacional-de-bandolins-da-madeira/
 END:VEVENT
 BEGIN:VEVENT
-UID:14986-20261111@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
+UID:14986-20261114@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
 SUMMARY:Festival Internacional de Bandolins da Madeira
 LOCATION:Funchal
 DESCRIPTION:A Associação de Bandolins da Madeira promove a 11.ª edição
@@ -1036,237 +1415,19 @@ DESCRIPTION:A Associação de Bandolins da Madeira promove a 11.ª edição
 URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-internacional-de-bandolins-da-madeira/
 END:VEVENT
 BEGIN:VEVENT
-UID:9764-20270717@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270717
-DTEND;VALUE=DATE:20270719
-SUMMARY:Clássicos na Magnólia
+UID:21279-20261031@visitmadeira.com
+DTSTAMP:20260930T101403Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Concerto Albrecht Mayer | OCM
 LOCATION:Funchal
-DESCRIPTION:"Clássicos na Magnólia" é uma montra viva onde o foco são o
- s carros clássicos. Admire a sua beleza e conheça histórias fascinantes
-  que atravessam gerações.\\nMais info: https://visitmadeira.com/pt/a-aco
- ntecer/eventos/classicos-na-magnolia/\\nSite oficial: https://eventsmadeir
- a.com/evento/classicos-na-magnolia/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/classicos-na-magnolia/
-END:VEVENT
-BEGIN:VEVENT
-UID:9743-20270429@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270531
-SUMMARY:Festa da Flor
-LOCATION:Funchal
-DESCRIPTION:A Festa da Flor ocorre com a chegada da primavera\, onde os jar
- dins madeirenses se tornam ainda mais coloridos e exuberantes. Celebra a N
- atureza.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/fest
- a-da-flor/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-da-flor/
-END:VEVENT
-BEGIN:VEVENT
-UID:9795-20261201@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20270111
-SUMMARY:Natal e Passagem de Ano
-LOCATION:Funchal | Porto Moniz | Santana | Porto Santo
-DESCRIPTION:Natal e Passagem de Ano na Madeira? O arquipélago é totalment
- e envolvido pela magia natalícia\, culminando com o grandioso fogo de art
- ifício de fim de ano.\\nMais info: https://visitmadeira.com/pt/a-acontece
- r/eventos/festas-de-natal-e-fim-de-ano/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festas-de-natal-e-fim-de-ano/
-END:VEVENT
-BEGIN:VEVENT
-UID:12922-20261202@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20270109
-SUMMARY:Oficinas de Natal
-LOCATION:Funchal
-DESCRIPTION:As oficinas de Natal proporcionam a confeção de produtos e a 
- sua partilha\, divulgando as tradições madeirenses mais genuínas desta 
- época. Nos dias e horários designados\, junto ao palco da Avenida Arriag
- a\, poderá aprender\, gratuitamente\, a produzir várias iguarias típica
- s como Poncha e Bolo do Caco\, entre outras receitas características da 
- época\, Bonecas de Massa\, decoração de mesas de Natal\, e ainda vário
- s outros elementos tradicionais madeirenses.\\nMais info: https://visitmad
- eira.com/pt/a-acontecer/eventos/oficinas-de-natal/\\nSite oficial: https:/
- /eventsmadeira.com/evento/oficinas-de-natal/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/oficinas-de-natal/
-END:VEVENT
-BEGIN:VEVENT
-UID:16705-20270429@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270531
-SUMMARY:Mercadinho das Flores e dos Produtos Regionais
-LOCATION:Funchal
-DESCRIPTION:Descubra o autêntico sabor da Madeira no nosso Mercadinho das 
- Flores e Produtos Regionais durante a Festa da Flor 2027. Entre flores exu
- berantes\, delicie-se com a doçaria regional\, o bolo do caco\, a sidra\,
-  a cerveja artesanal e a poncha com sabores exóticos.\\nMais info: https:
- //visitmadeira.com/pt/a-acontecer/eventos/mercadinho-das-flores-e-dos-prod
- utos-regionais/\\nSite oficial: https://eventsmadeira.com/evento/mercado-d
- as-flores-e-sabores-regionais/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/mercadinho-das-flores-e-dos-produtos-regionais/
-END:VEVENT
-BEGIN:VEVENT
-UID:9776-20270822@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270913
-SUMMARY:Festa do Vinho
-LOCATION:Funchal | Câmara de Lobos
-DESCRIPTION:Conheça a Festa do Vinho! Nunca é demais homenagear este prod
- uto regional\, conhecido pela sua qualidade de excelência um pouco por to
- do o mundo.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/f
- esta-do-vinho/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-vinho/
-END:VEVENT
-BEGIN:VEVENT
-UID:11993-20270904@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270906
-SUMMARY:Concertos das Vinhas ao Lagar
-DESCRIPTION:Conjunto de concertos musicais a decorrer em diferentes locais 
- da região\, numa envolvência vinícola\, em ambiente de sunset\, a reali
- zar depois do pico do calor\, quando os aromas se intensificam. Inclui atu
- ações musicais ao vivo e degustação de vinhos fortificados e tranquilo
- s\, produzidos no local.\\nMais info: https://visitmadeira.com/pt/a-aconte
- cer/eventos/concertos-das-vinhas-ao-lagar/\\nSite oficial: https://eventsm
- adeira.com/evento/concertos-da-vinha-ao-lagar/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-das-vinhas-ao-lagar/
-END:VEVENT
-BEGIN:VEVENT
-UID:11993-20270911@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270911
-DTEND;VALUE=DATE:20270913
-SUMMARY:Concertos das Vinhas ao Lagar
-DESCRIPTION:Conjunto de concertos musicais a decorrer em diferentes locais 
- da região\, numa envolvência vinícola\, em ambiente de sunset\, a reali
- zar depois do pico do calor\, quando os aromas se intensificam. Inclui atu
- ações musicais ao vivo e degustação de vinhos fortificados e tranquilo
- s\, produzidos no local.\\nMais info: https://visitmadeira.com/pt/a-aconte
- cer/eventos/concertos-das-vinhas-ao-lagar/\\nSite oficial: https://eventsm
- adeira.com/evento/concertos-da-vinha-ao-lagar/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/concertos-das-vinhas-ao-lagar/
-END:VEVENT
-BEGIN:VEVENT
-UID:9840-20270205@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270207
-SUMMARY:Cortejo Alegórico Carnaval
-LOCATION:Funchal
-DESCRIPTION:Nos dias 5 e 6 de fevereiro\, as ruas da baixa funchalense volt
- am a encher-se de música\, cor e animação\, com a realização\, pela p
- rimeira vez\, de dois desfiles alegóricos que\, harmoniosamente\, conjuga
- m exuberantes carros alegóricos com trajes repletos de criatividade e fan
- tasia.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/cortej
- o-alegorico-carnaval/\\nSite oficial: https://eventsmadeira.com/evento/cor
- tejo-alegorico-carnaval/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/cortejo-alegorico-carnaval/
-END:VEVENT
-BEGIN:VEVENT
-UID:11977-20270822@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270827
-SUMMARY:Semana Europeia de Folclore
-LOCATION:Funchal
-DESCRIPTION:É um festival de folclore organizado pelo Grupo de Folclore e 
- Etnográfico da Boa Nova\, que tem por objetivo promover um convívio inte
- rcultural e dar a conhecer realidades etnográficas. Conta com a participa
- ção de grupos nacionais e estrangeiros.\\nMais info: https://visitmadeir
- a.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/\\nSite oficial: 
- https://eventsmadeira.com/evento/xvii-semana-europeia-de-folclore/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/semana-europeia-de-folclore/
-END:VEVENT
-BEGIN:VEVENT
-UID:16594-20261002@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Eco Rally Madeira
-LOCATION:Funchal | Calheta | Machico
-DESCRIPTION:O Eco Rally Madeira é uma prova desportiva exclusiva para auto
- móveis 100% elétricos\, integrada no Campeonato de Portugal de Novas Ene
- rgias\, no ECO Challenge Ibérico e na FIA ECO Cup (Campeonato do Mundo).\
- \nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/eco-rally-mad
- eira/\\nSite oficial: https://eventsmadeira.com/evento/eco-rally-madeira/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/eco-rally-madeira/
-END:VEVENT
-BEGIN:VEVENT
-UID:16594-20261004@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:Eco Rally Madeira
-LOCATION:Funchal | Calheta | Machico
-DESCRIPTION:O Eco Rally Madeira é uma prova desportiva exclusiva para auto
- móveis 100% elétricos\, integrada no Campeonato de Portugal de Novas Ene
- rgias\, no ECO Challenge Ibérico e na FIA ECO Cup (Campeonato do Mundo).\
- \nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/eco-rally-mad
- eira/\\nSite oficial: https://eventsmadeira.com/evento/eco-rally-madeira/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/eco-rally-madeira/
-END:VEVENT
-BEGIN:VEVENT
-UID:11979-20270826@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270826
-DTEND;VALUE=DATE:20270913
-SUMMARY:Madeira Wine Lounge
-LOCATION:Funchal
-DESCRIPTION:O Madeira Wine Lounge\, na Praça do Povo\, é um lugar privile
- giado para os visitantes desfrutarem de provas de vinho e gastronomia\, ao
-  som de grupos musicais regionais de géneros diversos.\\nMais info: https
- ://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/\\nSite ofi
- cial: https://eventsmadeira.com/evento/madeira-wine-lounge/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/madeira-wine-lounge/
-END:VEVENT
-BEGIN:VEVENT
-UID:11998-20270911@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270911
-DTEND;VALUE=DATE:20270912
-SUMMARY:Festa das Vindimas do Estreito
-LOCATION:Câmara de Lobos
-DESCRIPTION:A Festa das Vindimas reúne todos os anos\, na primeira quinzen
- a de setembro\, milhares de forasteiros na vila do Estreito. Cartaz fundam
- ental de promoção do destino Madeira\, esta festa recria o trabalho árd
- uo\, mas alegre das vindimas\, fase essencial na preparação do caminho p
- ela leva à população do produto mais famoso da madeira\, seu vinho.\\nM
- ais info: https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindim
- as-do-estreito/\\nSite oficial: https://eventsmadeira.com/evento/festa-das
- -vindimas-do-estreito/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festa-das-vindimas-do-estreito/
-END:VEVENT
-BEGIN:VEVENT
-UID:20687-20270924@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270926
-SUMMARY:X Torneio Colombo's Golf Trophy
-LOCATION:Porto Santo
-DESCRIPTION:Nos dias 24 e 25 de setembro\, o Porto Santo Golfe recebe a X e
- dição do Torneio "Colombo's Golf Trophy"\, integrado no programa oficial
-  do Festival Colombo\, na ilha do Porto Santo.\\nMais info: https://visitm
- adeira.com/pt/a-acontecer/eventos/x-torneio-colombos-golf-trophy/\\nSite o
- ficial: https://eventsmadeira.com/evento/ix-torneio-colombos-golf-trophy/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/x-torneio-colombos-golf-trophy/
-END:VEVENT
-BEGIN:VEVENT
-UID:9784-20270923@visitmadeira.com
-DTSTAMP:20260929T102056Z
-DTSTART;VALUE=DATE:20270923
-DTEND;VALUE=DATE:20270926
-SUMMARY:Festival Colombo
-LOCATION:Porto Santo
-DESCRIPTION:Festival Colombo - Uma oportunidade única de recordar e experi
- enciar a época dos Descobrimentos e a passagem de Colombo pela ilha do Po
- rto Santo.\\nMais info: https://visitmadeira.com/pt/a-acontecer/eventos/fe
- stival-colombo/
-URL:https://visitmadeira.com/pt/a-acontecer/eventos/festival-colombo/
+DESCRIPTION:No dia 31 de outubro\, às 18h00\, no Centro de Congressos da M
+ adeira\, a Orquestra Clássica da Madeira apresenta um concerto especial c
+ om Albrecht Mayer\, solista principal da Berliner Philharmoniker e um dos 
+ oboístas mais reconhecidos internacionalmente.\\nMais info: https://visit
+ madeira.com/pt/a-acontecer/eventos/concerto-albrecht-mayer-ocm/\\nSite ofi
+ cial: https://www.ocmadeira.pt/concertos/proximos-eventos/orquestra-cla-ss
+ ica-da-madeira/277-albrecht-mayer-ocm.html
+URL:https://visitmadeira.com/pt/a-acontecer/eventos/concerto-albrecht-mayer-ocm/
 END:VEVENT
 END:VCALENDAR
